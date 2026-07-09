@@ -1,0 +1,91 @@
+{
+  "name": "TEST3 - Wydarzenia",
+  "date": "2026-07-09T00:00:00.0000000+01:00",
+  "items": [
+    {
+      "type": "picture",
+      "referenceName": "jezus_serce_01",
+      "orderPosition": 1
+    },
+    {
+      "type": "song",
+      "referenceName": "Ciebie całą duszą pragnę",
+      "orderPosition": 2
+    },
+    {
+      "type": "picture",
+      "referenceName": "jezus_serce_01",
+      "orderPosition": 3
+    },
+    {
+      "type": "song",
+      "referenceName": "PSALM na dziś",
+      "orderPosition": 4
+    },
+    {
+      "type": "picture",
+      "referenceName": "jezus_serce_01",
+      "orderPosition": 5
+    },
+    {
+      "type": "song",
+      "referenceName": "Com przyrzekł Bogu",
+      "orderPosition": 6
+    },
+    {
+      "type": "picture",
+      "referenceName": "kumunia_swieta_02",
+      "orderPosition": 7
+    },
+    {
+      "type": "song",
+      "referenceName": "Zbliżam się w pokorze",
+      "orderPosition": 8
+    },
+    {
+      "type": "picture",
+      "referenceName": "kumunia_swieta_02",
+      "orderPosition": 9
+    },
+    {
+      "type": "song",
+      "referenceName": "Dziękujemy Ci, Ojcze nasz",
+      "orderPosition": 10
+    },
+    {
+      "type": "picture",
+      "referenceName": "jezus_serce_01",
+      "orderPosition": 11
+    },
+    {
+      "type": "song",
+      "referenceName": "Przed tak wielkim Sakramentem",
+      "orderPosition": 12
+    },
+    {
+      "type": "song",
+      "referenceName": "Litania do Najświętszego Serca Pana Jezusa",
+      "orderPosition": 13
+    },
+    {
+      "type": "picture",
+      "referenceName": "jezus_serce_01",
+      "orderPosition": 14
+    },
+    {
+      "type": "song",
+      "referenceName": "Pobłogosław Jezu drogi",
+      "orderPosition": 15
+    },
+    {
+      "type": "picture",
+      "referenceName": "jezus_serce_01",
+      "orderPosition": 16
+    },
+    {
+      "type": "song",
+      "referenceName": "Bliskie jest królestwo Boże",
+      "orderPosition": 17
+    }
+  ]
+}
