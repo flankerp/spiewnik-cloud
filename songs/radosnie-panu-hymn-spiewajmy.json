@@ -1,0 +1,39 @@
+{
+  "title": "Radośnie Panu hymn śpiewajmy",
+  "author": null,
+  "tonacja": "C-Dur",
+  "tags": [
+    "Uwielbienie",
+    "Liturgiczne"
+  ],
+  "sections": [
+    {
+      "type": "Refrain",
+      "text": "Refren: Radośnie Panu hymn śpiewajmy. Alleluja! \nI dobroć Jego wysławiajmy. Alleluja!\r"
+    },
+    {
+      "type": "Verse",
+      "text": "1. Wychwalajcie ze mną dzieła Bożej mocy. \r\nAlleluja! \n \u000BWychwalajcie Pana nad wszystko na wieki. \r\nAlleluja!"
+    },
+    {
+      "type": "Refrain",
+      "text": "Refren: Radośnie Panu hymn śpiewajmy. Alleluja! \nI dobroć Jego wysławiajmy. Alleluja!\r"
+    },
+    {
+      "type": "Verse",
+      "text": "2. Wychwalajcie Pana, aniołowie Pańscy. \r\nAlleluja! \n \u000BWychwalajcie Pana, zastępy niebieskie. \r\nAlleluja! "
+    },
+    {
+      "type": "Refrain",
+      "text": "Refren: Radośnie Panu hymn śpiewajmy. Alleluja! \nI dobroć Jego wysławiajmy. Alleluja!\r"
+    },
+    {
+      "type": "Verse",
+      "text": "3. Wychwalajcie Pana, słońce i księżycu. \r\nAlleluja! \n \u000BWychwalajcie Pana, wszystkie gwiazdy nieba. \r\nAlleluja!"
+    },
+    {
+      "type": "Refrain",
+      "text": "Refren: Radośnie Panu hymn śpiewajmy. Alleluja! \nI dobroć Jego wysławiajmy. Alleluja!\r"
+    }
+  ]
+}
