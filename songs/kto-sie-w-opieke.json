@@ -1,0 +1,24 @@
+{
+  "title": "Kto się w opiekę",
+  "author": "Śpiewnik Siedleckiego",
+  "tonacja": "C-Dur",
+  "tags": [
+    "Wejście",
+    "Rozesłanie",
+    "Liturgiczne"
+  ],
+  "sections": [
+    {
+      "type": "Verse",
+      "text": "1. Kto się w opiekę odda Panu swemu, \n a całym sercem szczerze ufa Jemu, \nśmiele rzec może: mam obrońcę Boga, \nnie przyjdzie na mnie żadna straszna trwoga."
+    },
+    {
+      "type": "Verse",
+      "text": "2. Ciebie On z łowczych obieży wyzuje \ni w zaraźliwym powietrzu ratuje; \nw cieniu swych skrzydeł zachowa cię wiecznie, \npod Jego pióry uleżysz bezpiecznie."
+    },
+    {
+      "type": "Verse",
+      "text": "3. Stateczność Jego tarcz i puklerz mocny, \nza którym stojąc, na żaden strach nocny, \nna żadną trwogę, ani dbaj na strzały, \nktórymi sieje przygoda w dzień biały."
+    }
+  ]
+}
