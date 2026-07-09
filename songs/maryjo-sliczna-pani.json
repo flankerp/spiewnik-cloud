@@ -1,0 +1,28 @@
+{
+  "title": "Maryjo, śliczna Pani",
+  "author": null,
+  "tonacja": "G-Dur",
+  "tags": [
+    "Rozesłanie",
+    "Nie liturgiczne",
+    "Maryjne"
+  ],
+  "sections": [
+    {
+      "type": "Verse",
+      "text": "Maryjo, śliczna Pani,\r\nMatko Boga i ludzi na ziemi.\r\nTyś świata Królową,\r\nTyś gwiazdą na niebie,\r\nTy nas wiedziesz przed Jezusa wieczny tron."
+    },
+    {
+      "type": "Refrain",
+      "text": "Maryja, Ave Maryja\r\nU Boga nam wybłagaj zdroje łask.\r\nBy świat lepszy był by w miłości żył,\r\nO Maryjo, miej w opiece dzieci swe."
+    },
+    {
+      "type": "Verse",
+      "text": "Maryjo, śliczna Pani,\r\nŚwiat dziś czuje na swych ustach gorzkie łzy.\r\nW sercu ból, smutek, żal, a w oczach wciąż strach\r\nUsłysz, Pani, błaganie pomóż nam."
+    },
+    {
+      "type": "Refrain",
+      "text": "Maryja, Ave Maryja\r\nU Boga nam wybłagaj zdroje łask.\r\nBy świat lepszy był by w miłości żył,\r\nO Maryjo, miej w opiece dzieci swe."
+    }
+  ]
+}
