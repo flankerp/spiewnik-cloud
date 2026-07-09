@@ -1,0 +1,27 @@
+{
+  "title": "Jeden chleb",
+  "author": null,
+  "tonacja": "G-Dur",
+  "tags": [
+    "Komunia",
+    "Liturgiczne"
+  ],
+  "sections": [
+    {
+      "type": "Verse",
+      "text": "1. Jeden  chleb co zmienia się w Chrystusa Ciało, \nz wielu ziaren pszenicznych się rodzi. \nJedno wino, co się Krwią Chrystusa stało, \nz soku wielu winnych gron pochodzi."
+    },
+    {
+      "type": "Refrain",
+      "text": "Refren: Jak ten chleb, co złączył złote ziarna, \ntak niech miłość złączy nas ofiarna. \nJak ten kielich łączy kropel wiele, \ntak nas, Chryste, w swoim złącz Kościele."
+    },
+    {
+      "type": "Verse",
+      "text": "2. O Pasterzu, zgromadź w jednej swej owczarni \nzabłąkane owce, które giną. \nW jeden Kościół zbierz na nowo i przygarnij, \nbyśmy jedną stali się rodziną. Ref."
+    },
+    {
+      "type": "Refrain",
+      "text": "Refren: Jak ten chleb, co złączył złote ziarna, \ntak niech miłość złączy nas ofiarna. \nJak ten kielich łączy kropel wiele, \ntak nas, Chryste, w swoim złącz Kościele."
+    }
+  ]
+}
