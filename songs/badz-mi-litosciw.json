@@ -1,0 +1,31 @@
+{
+  "title": "Bądź mi litościw",
+  "author": null,
+  "tonacja": "d-moll",
+  "tags": [
+    "Liturgiczne",
+    "Wielki Post 1"
+  ],
+  "sections": [
+    {
+      "type": "Verse",
+      "text": "Bądź mi litościw, Boże nieskończony,\u000Bwedług wielkiego miłosierdzia Twego!\u000B/Według litości Twej niepoliczonej,\u000Bchciej zmazać mnóstwo przewinienia mego./ x 2"
+    },
+    {
+      "type": "Verse",
+      "text": "Obmyj mnie z złości, obmyj tej godziny,\u000Boczyść mnie z brudu, w którym mnie grzech trzyma; \u000B/bo ja poznaję wielkość mojej winy\u000Bi grzech mój zawsze przed mymi oczyma./ x 2"
+    },
+    {
+      "type": "Verse",
+      "text": "Odwróć twarz Twoją od przestępstwa mego\u000Bi wszystkie moje odpuść nieprawości;\u000B/stwórz serce czyste, warte Boga swego,\u000Ba ducha prawdy w moje wlej wnętrzności./ x 2"
+    },
+    {
+      "type": "Verse",
+      "text": "Nie oddalaj mnie od ojcowskiej twarzy,\u000Bnie chciej mi bronić Twojego natchnienia;\u000B/wróć radość, którą niewinność nas darzy,\u000Bi racz mnie w duchu utwierdzić rządzenia./ x 2"
+    },
+    {
+      "type": "Verse",
+      "text": "Chciej mi otworzyć usta moje, Panie,\u000Bbym śpiewał chwałę Twojego imienia;\u000B/jeśli chcesz ofiar, \u000Bwszak na nie mnie stanie, \u000Blecz nie tak miłe są całopalenia./ x 2"
+    }
+  ]
+}
