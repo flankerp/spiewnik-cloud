@@ -1,0 +1,19 @@
+{
+  "title": "Pod Twą obronę",
+  "author": null,
+  "tonacja": "C-Dur",
+  "tags": [
+    "Wejście",
+    "Liturgiczne"
+  ],
+  "sections": [
+    {
+      "type": "Verse",
+      "text": "1. Pod Twą obronę, Ojcze na niebie, \ngrono Twych dzieci swój powierza los, \nTy nam błogosław, ratuj w potrzebie \ni broń od zguby, gdy zagraża cios."
+    },
+    {
+      "type": "Verse",
+      "text": "2. Czy toń spokojna, czy huczą fale, \ngdy Ty Twe dzieci w swej opiece masz, \nwznosimy modły dziś ku Twej chwale, \nboś Ty nam tarczą, Boże Ojcze nasz."
+    }
+  ]
+}
