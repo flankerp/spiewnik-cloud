@@ -1,0 +1,39 @@
+{
+  "title": "Dzięki, o Panie",
+  "author": null,
+  "tonacja": "F-Dur",
+  "tags": [
+    "Uwielbienie",
+    "Liturgiczne"
+  ],
+  "sections": [
+    {
+      "type": "Refrain",
+      "text": "Refren: Dzięki, o Panie, składamy dzięki, \n o wszechmogący nasz Królu w niebie."
+    },
+    {
+      "type": "Verse",
+      "text": "1. Za to, że dałeś nam wiarę\r\nZa to, że dałeś nam miłość"
+    },
+    {
+      "type": "Refrain",
+      "text": "Refren: Dzięki, o Panie, składamy dzięki, \n o wszechmogący nasz Królu w niebie."
+    },
+    {
+      "type": "Verse",
+      "text": "2.  Za to, że dałeś nam siebie.\r\nZa to, że jesteś z nami."
+    },
+    {
+      "type": "Refrain",
+      "text": "Refren: Dzięki, o Panie, składamy dzięki, \n o wszechmogący nasz Królu w niebie."
+    },
+    {
+      "type": "Verse",
+      "text": "3. Ty nam przebaczasz grzechy\r\nTobie śpiewamy z radością."
+    },
+    {
+      "type": "Refrain",
+      "text": "Refren: Dzięki, o Panie, składamy dzięki, \n o wszechmogący nasz Królu w niebie."
+    }
+  ]
+}
