@@ -1,0 +1,43 @@
+{
+  "title": "Dziękujemy Ci, Ojcze nasz",
+  "author": null,
+  "tonacja": "C-Dur",
+  "tags": [
+    "Uwielbienie",
+    "Liturgiczne"
+  ],
+  "sections": [
+    {
+      "type": "Verse",
+      "text": "1. Dziękujemy Ci, Ojcze nasz, \r\nza święty, winny szczep Dawida,\r\nktóry nam poznać dałeś\r\nprzez Jezusa, Syna Twego."
+    },
+    {
+      "type": "Refrain",
+      "text": "Refren: Tobie chwała na wieki."
+    },
+    {
+      "type": "Verse",
+      "text": "2. Dziękujemy Ci, Ojcze nasz,\r\nza życie i za wiarę,\r\nktórą nam poznać dałeś,\r\nprzez Jezusa, Syna Twego."
+    },
+    {
+      "type": "Refrain",
+      "text": "Refren: Tobie chwała na wieki."
+    },
+    {
+      "type": "Verse",
+      "text": "3. Dziękujemy Ci, Ojcze nasz,\r\nza święte imię Twoje,\r\nktóremu zgotowałeś\r\nmieszkanie w sercach naszych."
+    },
+    {
+      "type": "Refrain",
+      "text": "Refren: Tobie chwała na wieki."
+    },
+    {
+      "type": "Verse",
+      "text": "4. Dziękujemy Ci, Ojcze nasz,\r\nza wiarę i za nieśmiertelność,\r\nktórą nam poznać dałeś\r\nprzez Jezusa, Syna Twego. "
+    },
+    {
+      "type": "Refrain",
+      "text": "Refren: Tobie chwała na wieki."
+    }
+  ]
+}
