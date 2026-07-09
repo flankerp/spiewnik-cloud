@@ -1,0 +1,28 @@
+{
+  "title": "Com przyrzekł Bogu",
+  "author": null,
+  "tonacja": "C-Dur",
+  "tags": [
+    "Wejście",
+    "Liturgiczne",
+    "Pokropienie"
+  ],
+  "sections": [
+    {
+      "type": "Verse",
+      "text": "1. Com przyrzekł Bogu przy chrzcie raz,\r\ndotrzymać pragnę szczerze;\r\nKościoła słuchać w każdy czas\r\ni w świętej wytrwać wierze."
+    },
+    {
+      "type": "Refrain",
+      "text": "O, Panie, Boże, dzięki Ci,\r\nżeś mi Kościoła otwarł drzwi. \r\nW nim żyć, umierać pragnę. /2x"
+    },
+    {
+      "type": "Verse",
+      "text": "2. W Kościele tym jest z Ciałem, Krwią,\r\nBóg pod postacią chleba.\r\nSwym Ciałem karmi duszę mą,\r\nby żyła w Nim dla nieba."
+    },
+    {
+      "type": "Refrain",
+      "text": "W to wierzyć zawsze mocno chcę,\r\nbo tego Kościół uczy mnie.\r\nW Nim żyć umierać pragnę. /2x"
+    }
+  ]
+}
