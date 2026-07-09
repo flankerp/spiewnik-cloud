@@ -1,0 +1,27 @@
+{
+  "title": "Witam Cię, witam",
+  "author": null,
+  "tonacja": "C-Dur",
+  "tags": [
+    "Liturgiczne",
+    "Wielki Post 1"
+  ],
+  "sections": [
+    {
+      "type": "Verse",
+      "text": "1. Witam Cię, witam, Przenajświętsze Ciało, \u000Bktóreś na krzyżu sromotnie wisiało, \nza nasze winy, Synu jedyny \u000BOjca wiecznego, Boga prawego, \nmęki te znosiłeś."
+    },
+    {
+      "type": "Verse",
+      "text": "2. Dajem Ci pokłon, Bogu prawdziwemu, \u000Bw tym Sakramencie dziwnie zakrytemu; \u000Bżebrzem litości i Twej miłości, \u000Bbyś gniew swój srogi, o Jezu drogi, \npohamować raczył."
+    },
+    {
+      "type": "Verse",
+      "text": "3. Zmiłuj się, zmiłuj nad nami grzesznymi, \u000Bnie racz pogardzać prośbami naszymi; \nzgrom hardych siły, daj pokój miły, \nwyniszcz złe rady, wykorzeń zdrady \npośród ludu swego."
+    },
+    {
+      "type": "Verse",
+      "text": "4. A kiedy przyjdzie z światem tym rozstanie, \u000Bratuj nas, ratuj, dobrotliwy Panie! \nNiech z Ciała Twego Przenajświętszego \u000Bposiłek mamy i oglądamy \u000BCiebie łaskawego."
+    }
+  ]
+}
