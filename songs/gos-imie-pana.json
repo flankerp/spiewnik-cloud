@@ -1,0 +1,23 @@
+{
+  "title": "Głoś imię Pana",
+  "author": null,
+  "tonacja": "D-Dur",
+  "tags": [
+    "Wejście",
+    "Liturgiczne"
+  ],
+  "sections": [
+    {
+      "type": "Verse",
+      "text": "1. Głoś imię Pana, Króla wszechmocy i chwały.\r\nZłącz się z chórami niebios, zastępów wspaniałych.\r\nHarfa i róg niech zagra: „Któż jest, jak Bóg!”\r\nby krańce ziemi słyszały."
+    },
+    {
+      "type": "Verse",
+      "text": "2. Głoś imię Pana, On twoim losem kieruje.\r\nNa skrzydłach niesie, jak orzeł się opiekuje.\r\nDaj Mu swą dłoń, w przygodzie zawołaj doń;\r\nOn cię od zła zachowuje."
+    },
+    {
+      "type": "Verse",
+      "text": "3. Głoś imię Pana, razem ze wszystkim, co żyje.\r\nOn twoim światłem, Jemu niech serce twe bije!\r\nOn życiem twym, wdzięczności śpiewaj Mu hymn\r\nteraz i na wieki. Amen."
+    }
+  ]
+}
