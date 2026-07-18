@@ -1,0 +1,43 @@
+{
+  "title": "O Panie, Tyś moim Pasterzem",
+  "author": null,
+  "tonacja": "F-Dur",
+  "tags": [
+    "Liturgiczne",
+    "Komunia"
+  ],
+  "sections": [
+    {
+      "type": "Verse",
+      "text": "1. O Panie, Tyś moim Pasterzem,\r\ntak dobrym, że nic mi nie braknie.\r\nDo źródeł wód żywych mnie wiedziesz,\r\nprostymi ścieżkami prowadzisz.\u000B"
+    },
+    {
+      "type": "Refrain",
+      "text": "Refren: Pasterzem moim jest Pan \u000Bi nie brak mi niczego. /2x"
+    },
+    {
+      "type": "Verse",
+      "text": "2. Choć idę przez ciemną dolinę,\r\nniczego nie muszę się trwożyć.\r\nBo Pasterz mój zawsze jest przy mnie,\r\nw obronie mej stanąć gotowy."
+    },
+    {
+      "type": "Refrain",
+      "text": "Refren: Pasterzem moim jest Pan \u000Bi nie brak mi niczego. /2x"
+    },
+    {
+      "type": "Verse",
+      "text": "3. Do stołu swojego zaprasza,\r\nna oczach mych wrogów to czyni,\r\nolejkiem mą głowę namaszcza,\r\na kielich napełnia obficie.\u000B"
+    },
+    {
+      "type": "Refrain",
+      "text": "Refren: Pasterzem moim jest Pan \ni nie brak mi niczego. /2x"
+    },
+    {
+      "type": "Verse",
+      "text": "4. Twa łaska i dobroć podążą,\r\nw ślad za mną po dzień mój ostatni.\r\nAż dotrę, o Panie, do domu,\r\nby z Tobą zamieszkać na zawsze. "
+    },
+    {
+      "type": "Refrain",
+      "text": "Refren: Pasterzem moim jest Pan \u000Bi nie brak mi niczego. /2x"
+    }
+  ]
+}
