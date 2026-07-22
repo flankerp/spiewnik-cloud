@@ -1,0 +1,23 @@
+{
+  "title": "Wszystko Tobie oddać pragnę",
+  "author": null,
+  "tonacja": null,
+  "tags": [
+    "Liturgiczne",
+    "Ofiarowanie"
+  ],
+  "sections": [
+    {
+      "type": "Verse",
+      "text": "1. Wszystko Tobie oddać pragnę i dla Ciebie tylko żyć! \n Chcę Cię, Jezu, kochać wiernie, dzieckiem Twoim zawsze być!"
+    },
+    {
+      "type": "Refrain",
+      "text": "Refren: Serce moje weź, niech Twą śpiewa cześć, \n serce moje, duszę moją, Panie Jezu weź!"
+    },
+    {
+      "type": "Verse",
+      "text": "2. Wszystko Tobie oddać pragnę od najmłodszych moich lat! \n Pomóż, Jezu, by mnie nie zwiódł pokusami swymi świat! Ref."
+    }
+  ]
+}
