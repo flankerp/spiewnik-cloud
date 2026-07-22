@@ -9,7 +9,7 @@
   "sections": [
     {
       "type": "Verse",
-      "text": "1. Wszystko Tobie oddać pragnę i dla Ciebie tylko żyć! \n Chcę Cię, Jezu, kochać wiernie, dzieckiem Twoim zawsze być!"
+      "text": "1. Wszystko Tobie oddać pragnę \r\ni dla Ciebie tylko żyć! \nChcę Cię, Jezu, kochać wiernie,\r\ndzieckiem Twoim zawsze być!"
     },
     {
       "type": "Refrain",
@@ -17,7 +17,7 @@
     },
     {
       "type": "Verse",
-      "text": "2. Wszystko Tobie oddać pragnę od najmłodszych moich lat! \n Pomóż, Jezu, by mnie nie zwiódł pokusami swymi świat! Ref."
+      "text": "2. Wszystko Tobie oddać pragnę\r\nod najmłodszych moich lat! \nPomóż, Jezu, by mnie nie zwiódł\r\npokusami swymi świat! Ref."
     }
   ]
 }
