@@ -2,28 +2,28 @@
   "title": "Witaj Gwiazdo morza",
   "author": null,
   "tonacja": "F-Dur",
-  "updatedAt": "2026-07-23T20:09:53.0095746Z",
+  "updatedAt": "2026-07-23T20:30:47.8929053Z",
   "tags": [
     "Liturgiczne",
-    "Maryjne",
-    "Wejście"
+    "Wejście",
+    "Maryjne"
   ],
   "sections": [
     {
       "type": "Verse",
-      "text": "Witaj, Gwiazdo morza,\u000BWielka Matko Boga,\u000BPanno zawsze czysta,\u000BBramo niebios błoga."
+      "text": "Witaj, Gwiazdo morza,\r\nWielka Matko Boga,\r\nPanno zawsze czysta,\r\nBramo niebios błoga."
     },
     {
       "type": "Verse",
-      "text": "Ty, coś Gabriela\u000BSłowem przywitana,\u000BUtwierdź nas w pokoju,\u000BOdmień Ewy miano."
+      "text": "Ty, coś Gabriela\r\nSłowem przywitana,\r\nUtwierdź nas w pokoju,\r\nOdmień Ewy miano."
     },
     {
       "type": "Verse",
-      "text": "Winnych wyzwól z więzów,\u000BŚlepym powróć blaski.\u000BOddal nasze nędze,\u000BUproś wszelkie łaski"
+      "text": "Winnych wyzwól z więzów,\r\nŚlepym powróć blaski.\r\nOddal nasze nędze,\r\nUproś wszelkie łaski"
     },
     {
       "type": "Verse",
-      "text": "Okaż, żeś jest Matką,\u000BWzrusz modłami swymi\u000BTego, co Twym Synem\u000BZechciał być na ziemi."
+      "text": "Okaż, żeś jest Matką,\r\nWzrusz modłami swymi\r\nTego, co Twym Synem\r\nZechciał być na ziemi."
     },
     {
       "type": "Verse",
