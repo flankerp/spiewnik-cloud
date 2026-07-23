@@ -1,0 +1,97 @@
+{
+  "name": "Wniebowzięcie Najświętszej Maryji Panny",
+  "date": "2026-07-23",
+  "updatedAt": "2026-07-23T20:25:06.2958545Z",
+  "items": [
+    {
+      "type": "Picture",
+      "referenceName": "maryja_wniebowzieta",
+      "orderPosition": 1,
+      "elementName": null
+    },
+    {
+      "type": "Song",
+      "referenceName": "Witaj Gwiazdo morza",
+      "orderPosition": 2,
+      "elementName": "Wejście"
+    },
+    {
+      "type": "Picture",
+      "referenceName": "maryja_wniebowzieta",
+      "orderPosition": 3,
+      "elementName": null
+    },
+    {
+      "type": "Song",
+      "referenceName": "Psalm Wniebozięcie Maryji",
+      "orderPosition": 4,
+      "elementName": "Psalm"
+    },
+    {
+      "type": "Picture",
+      "referenceName": "maryja_koronacja",
+      "orderPosition": 5,
+      "elementName": null
+    },
+    {
+      "type": "Song",
+      "referenceName": "Zdrowaś Maryjo",
+      "orderPosition": 6,
+      "elementName": "Ofiarowanie"
+    },
+    {
+      "type": "Picture",
+      "referenceName": "maryja_wniebowzieta",
+      "orderPosition": 7,
+      "elementName": null
+    },
+    {
+      "type": "Song",
+      "referenceName": "Chrystus Pan karmi nas",
+      "orderPosition": 8,
+      "elementName": "Komunia"
+    },
+    {
+      "type": "Picture",
+      "referenceName": "udzielanie_kumuni_1",
+      "orderPosition": 9,
+      "elementName": null
+    },
+    {
+      "type": "Song",
+      "referenceName": "Jeden chleb",
+      "orderPosition": 10,
+      "elementName": "Komunia"
+    },
+    {
+      "type": "Picture",
+      "referenceName": "kumunia_swieta_02",
+      "orderPosition": 11,
+      "elementName": null
+    },
+    {
+      "type": "Song",
+      "referenceName": "Magnificat (anime mea)",
+      "orderPosition": 12,
+      "elementName": "Uwielbienie"
+    },
+    {
+      "type": "Picture",
+      "referenceName": "maryja_koronacja",
+      "orderPosition": 13,
+      "elementName": null
+    },
+    {
+      "type": "Song",
+      "referenceName": "Z dawna Polski Tyś Królową",
+      "orderPosition": 14,
+      "elementName": "Rozesłanie"
+    },
+    {
+      "type": "Picture",
+      "referenceName": "maryja_wniebowzieta",
+      "orderPosition": 15,
+      "elementName": null
+    }
+  ]
+}
