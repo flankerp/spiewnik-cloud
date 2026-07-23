@@ -1,0 +1,32 @@
+{
+  "title": "Chrystus wodzem",
+  "author": null,
+  "tonacja": null,
+  "updatedAt": "2026-07-23T11:33:58.2038212Z",
+  "tags": [
+    "Liturgiczne",
+    "Niedziela Palmowa"
+  ],
+  "sections": [
+    {
+      "type": "Refrain",
+      "text": "Ref.\u000BChrystus wodzem, \u000BChrystus Królem. \u000BChrystus, Chrystus Władcą nam."
+    },
+    {
+      "type": "Verse",
+      "text": "1. Boga naszego chwalcie wszystkie ziemie.\r\nDaj Mu cześć winną całe ludzkie plemię.\r\nBo litość Jego nad nami stwierdzona.\r\nA prawda Pańska wiecznie uiszczona."
+    },
+    {
+      "type": "Refrain",
+      "text": "Ref.\u000BChrystus wodzem, \u000BChrystus Królem. \u000BChrystus, Chrystus Władcą nam."
+    },
+    {
+      "type": "Verse",
+      "text": "2. Chwała bądź Bogu w Trójcy jedynemu.\r\nOjcu, Synowi, Duchowi Świętemu.\r\nJak była na początku tak i ninie.\r\nI na wieki niechaj zawsze słynie."
+    },
+    {
+      "type": "Refrain",
+      "text": "Ref.\u000BChrystus wodzem, \u000BChrystus Królem. \u000BChrystus, Chrystus Władcą nam."
+    }
+  ]
+}
