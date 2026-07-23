@@ -1,93 +1,94 @@
 {
   "name": "Zakończenie Roku Formacyjnego 2026",
-  "date": "2026-06-26T00:00:00.0000000",
+  "date": "2026-06-26",
+  "updatedAt": "2026-07-23T11:15:51.3425374Z",
   "items": [
     {
-      "type": "picture",
+      "type": "Picture",
       "referenceName": "logo_roku_2026",
       "orderPosition": 1,
       "elementName": null
     },
     {
-      "type": "song",
+      "type": "Song",
       "referenceName": "Com przyrzekł Bogu",
       "orderPosition": 2,
       "elementName": null
     },
     {
-      "type": "picture",
+      "type": "Picture",
       "referenceName": "logo_roku_2026",
       "orderPosition": 3,
       "elementName": null
     },
     {
-      "type": "song",
+      "type": "Song",
       "referenceName": "Przykazanie nowe daję wam",
       "orderPosition": 4,
       "elementName": null
     },
     {
-      "type": "picture",
+      "type": "Picture",
       "referenceName": "logo_roku_2026",
       "orderPosition": 5,
       "elementName": null
     },
     {
-      "type": "song",
+      "type": "Song",
       "referenceName": "PSALM na dziś",
       "orderPosition": 6,
       "elementName": null
     },
     {
-      "type": "picture",
+      "type": "Picture",
       "referenceName": "kumunia_swieta_02",
       "orderPosition": 7,
       "elementName": null
     },
     {
-      "type": "song",
+      "type": "Song",
       "referenceName": "Chrystus Pan karmi nas",
       "orderPosition": 8,
       "elementName": null
     },
     {
-      "type": "picture",
+      "type": "Picture",
       "referenceName": "udzielanie_kumuni_1",
       "orderPosition": 9,
       "elementName": null
     },
     {
-      "type": "song",
+      "type": "Song",
       "referenceName": "O Panie, Tyś moim Pasterzem",
       "orderPosition": 10,
       "elementName": null
     },
     {
-      "type": "picture",
+      "type": "Picture",
       "referenceName": "udzielanie_kumuni_1",
       "orderPosition": 11,
       "elementName": null
     },
     {
-      "type": "song",
+      "type": "Song",
       "referenceName": "Dziękujemy Ci, Ojcze nasz",
       "orderPosition": 12,
       "elementName": null
     },
     {
-      "type": "picture",
+      "type": "Picture",
       "referenceName": "logo_roku_2026",
       "orderPosition": 13,
       "elementName": null
     },
     {
-      "type": "song",
+      "type": "Song",
       "referenceName": "Maryjo, śliczna Pani",
       "orderPosition": 14,
       "elementName": null
     },
     {
-      "type": "picture",
+      "type": "Picture",
       "referenceName": "logo_roku_2026",
       "orderPosition": 15,
       "elementName": null
