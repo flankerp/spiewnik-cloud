@@ -2,7 +2,7 @@
   "title": "Witaj Gwiazdo morza",
   "author": null,
   "tonacja": "F-Dur",
-  "updatedAt": "2026-07-23T20:30:47.8929053Z",
+  "updatedAt": "2026-07-23T20:33:52.4658404Z",
   "tags": [
     "Liturgiczne",
     "Wejście",
@@ -27,15 +27,15 @@
     },
     {
       "type": "Verse",
-      "text": "O Dziewico sławna\u000BI pokory wzorze,\u000BWyzwolonym z winy\u000BDaj nam żyć w pokorze"
+      "text": "O Dziewico sławna\r\nI pokory wzorze,\r\nWyzwolonym z winy\r\nDaj nam żyć w pokorze"
     },
     {
       "type": "Verse",
-      "text": "Daj wieść życie czyste,\u000BDrogę ściel bezpieczną,\u000BWidzieć daj Jezusa,\u000BMieć w Nim radość wieczną"
+      "text": "Daj wieść życie czyste,\r\nDrogę ściel bezpieczną,\r\nWidzieć daj Jezusa,\r\nMieć w Nim radość wieczną"
     },
     {
       "type": "Verse",
-      "text": "Bogu Ojcu chwała,\u000BChrystusowi pienie,\u000BObu z Duchem Świętym\u000BJedno uwielbienie. Amen."
+      "text": "Bogu Ojcu chwała,\r\nChrystusowi pienie,\r\nObu z Duchem Świętym\r\nJedno uwielbienie. Amen."
     }
   ]
 }
