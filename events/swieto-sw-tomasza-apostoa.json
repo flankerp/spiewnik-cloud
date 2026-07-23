@@ -1,7 +1,7 @@
 {
   "name": "Święto Św. Tomasza Apostoła",
   "date": "2026-07-08",
-  "updatedAt": "2026-07-23T18:43:39.4385340Z",
+  "updatedAt": "2026-07-23T19:02:12.7319116Z",
   "items": [
     {
       "type": "Picture",
@@ -46,51 +46,45 @@
       "elementName": null
     },
     {
-      "type": "Picture",
-      "referenceName": "kumunia_swieta_02",
-      "orderPosition": 8,
-      "elementName": null
-    },
-    {
       "type": "Song",
       "referenceName": "Dziękujemy Ci, Ojcze nasz",
-      "orderPosition": 9,
+      "orderPosition": 8,
       "elementName": null
     },
     {
       "type": "Picture",
       "referenceName": "jezus_serce_01",
-      "orderPosition": 10,
+      "orderPosition": 9,
       "elementName": null
     },
     {
       "type": "Song",
       "referenceName": "Przed tak wielkim Sakramentem",
-      "orderPosition": 11,
+      "orderPosition": 10,
       "elementName": null
     },
     {
       "type": "Song",
       "referenceName": "Litania do Najświętszego Serca Pana Jezusa",
-      "orderPosition": 12,
+      "orderPosition": 11,
       "elementName": null
     },
     {
       "type": "Picture",
       "referenceName": "jezus_serce_01",
-      "orderPosition": 13,
+      "orderPosition": 12,
       "elementName": null
     },
     {
       "type": "Song",
       "referenceName": "Pobłogosław Jezu drogi",
-      "orderPosition": 14,
+      "orderPosition": 13,
       "elementName": "Rozesłanie"
     },
     {
       "type": "Picture",
       "referenceName": "jezus_serce_01",
-      "orderPosition": 15,
+      "orderPosition": 14,
       "elementName": null
     }
   ]
