@@ -1,7 +1,7 @@
 {
   "name": "Wniebowzięcie Najświętszej Maryji Panny",
   "date": "2026-07-23",
-  "updatedAt": "2026-07-27T19:36:57.9414619Z",
+  "updatedAt": "2026-07-27T22:18:33.1463035Z",
   "items": [
     {
       "type": "Picture",
@@ -16,75 +16,81 @@
       "elementName": "Wejście"
     },
     {
+      "type": "Picture",
+      "referenceName": "maryja_wniebowzieta1",
+      "orderPosition": 3,
+      "elementName": null
+    },
+    {
       "type": "Song",
       "referenceName": "Psalm Wniebozięcie Maryji",
-      "orderPosition": 3,
+      "orderPosition": 4,
       "elementName": "Psalm"
     },
     {
       "type": "Picture",
       "referenceName": "maryja_koronacja",
-      "orderPosition": 4,
+      "orderPosition": 5,
       "elementName": null
     },
     {
       "type": "Song",
       "referenceName": "Zdrowaś Maryjo",
-      "orderPosition": 5,
+      "orderPosition": 6,
       "elementName": "Ofiarowanie"
     },
     {
       "type": "Picture",
       "referenceName": "jezus_w_kielichu",
-      "orderPosition": 6,
+      "orderPosition": 7,
       "elementName": null
     },
     {
       "type": "Song",
       "referenceName": "Chrystus Pan karmi nas",
-      "orderPosition": 7,
+      "orderPosition": 8,
       "elementName": "Komunia"
     },
     {
       "type": "Picture",
       "referenceName": "udzielanie_kumuni_1",
-      "orderPosition": 8,
+      "orderPosition": 9,
       "elementName": null
     },
     {
       "type": "Song",
       "referenceName": "Jeden chleb",
-      "orderPosition": 9,
+      "orderPosition": 10,
       "elementName": "Komunia"
     },
     {
       "type": "Picture",
       "referenceName": "jezus_w_kielichu",
-      "orderPosition": 10,
+      "orderPosition": 11,
       "elementName": null
     },
     {
       "type": "Song",
       "referenceName": "Magnificat (anime mea)",
-      "orderPosition": 11,
+      "orderPosition": 12,
       "elementName": "Uwielbienie"
     },
     {
       "type": "Picture",
       "referenceName": "maryja_koronacja",
-      "orderPosition": 12,
+      "orderPosition": 13,
       "elementName": null
     },
     {
       "type": "Song",
       "referenceName": "Z dawna Polski Tyś Królową",
-      "orderPosition": 13,
+      "orderPosition": 14,
       "elementName": "Rozesłanie"
     },
     {
       "type": "Picture",
       "referenceName": "maryja_wniebowzieta1",
-      "orderPosition": 14,
+      "orderPosition": 15,
       "elementName": null
     }
   ]
