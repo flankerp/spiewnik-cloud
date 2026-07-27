@@ -1,0 +1,36 @@
+{
+  "title": "Ja wiem, w Kogo ja wierzę",
+  "author": null,
+  "tonacja": null,
+  "updatedAt": "2026-07-27T20:08:32.0111929Z",
+  "tags": [
+    "Liturgiczne",
+    "Komunia"
+  ],
+  "sections": [
+    {
+      "type": "Verse",
+      "text": "Ja wiem, w Kogo ja wierzę\nstałością duszy mej.\nMój Pan w tym Sakramencie\npełen potęgi swej."
+    },
+    {
+      "type": "Refrain",
+      "text": "To Ten, co zstąpił z nieba,\nco życie za mnie dał\ni pod postacią chleba\npozostać z nami chciał."
+    },
+    {
+      "type": "Verse",
+      "text": "Ja wiem, w Kim mam nadzieję,\nw słabości mojej moc.\nTo Ten, przed którym światło\npali się w dzień i w noc."
+    },
+    {
+      "type": "Refrain",
+      "text": "On moim szczęściem w życiu,\nOn światłem w zgonu dzień,\nzwycięża mroki grzechu,\nrozprasza śmierci cień."
+    },
+    {
+      "type": "Verse",
+      "text": "Ja wiem, Kogo miłuję,\nnad wszelki świata dar.\nTego, co karmi duszę,\nCiałem i Krwią swych ran."
+    },
+    {
+      "type": "Refrain",
+      "text": "To Król nad wszystkie króle,\nwielki i dobry Pan,\nco karmi dusze głodne\nCiałem i Krwią swych ran."
+    }
+  ]
+}
