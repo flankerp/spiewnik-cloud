@@ -1,7 +1,7 @@
 {
   "name": "Wniebowzięcie Najświętszej Maryji Panny",
   "date": "2026-07-23",
-  "updatedAt": "2026-07-27T18:39:54.9970970Z",
+  "updatedAt": "2026-07-27T19:36:57.9414619Z",
   "items": [
     {
       "type": "Picture",
@@ -34,46 +34,58 @@
       "elementName": "Ofiarowanie"
     },
     {
+      "type": "Picture",
+      "referenceName": "jezus_w_kielichu",
+      "orderPosition": 6,
+      "elementName": null
+    },
+    {
       "type": "Song",
       "referenceName": "Chrystus Pan karmi nas",
-      "orderPosition": 6,
+      "orderPosition": 7,
       "elementName": "Komunia"
     },
     {
       "type": "Picture",
       "referenceName": "udzielanie_kumuni_1",
-      "orderPosition": 7,
+      "orderPosition": 8,
       "elementName": null
     },
     {
       "type": "Song",
       "referenceName": "Jeden chleb",
-      "orderPosition": 8,
+      "orderPosition": 9,
       "elementName": "Komunia"
     },
     {
       "type": "Picture",
-      "referenceName": "kumunia_swieta_02",
-      "orderPosition": 9,
+      "referenceName": "jezus_w_kielichu",
+      "orderPosition": 10,
       "elementName": null
     },
     {
       "type": "Song",
       "referenceName": "Magnificat (anime mea)",
-      "orderPosition": 10,
+      "orderPosition": 11,
       "elementName": "Uwielbienie"
     },
     {
       "type": "Picture",
       "referenceName": "maryja_koronacja",
-      "orderPosition": 11,
+      "orderPosition": 12,
       "elementName": null
     },
     {
       "type": "Song",
       "referenceName": "Z dawna Polski Tyś Królową",
-      "orderPosition": 12,
+      "orderPosition": 13,
       "elementName": "Rozesłanie"
+    },
+    {
+      "type": "Picture",
+      "referenceName": "maryja_wniebowzieta1",
+      "orderPosition": 14,
+      "elementName": null
     }
   ]
 }
