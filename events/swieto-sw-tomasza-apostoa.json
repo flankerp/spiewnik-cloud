@@ -1,11 +1,11 @@
 {
   "name": "Święto Św. Tomasza Apostoła",
   "date": "2026-07-08",
-  "updatedAt": "2026-07-23T19:02:12.7319116Z",
+  "updatedAt": "2026-07-27T22:44:08.6221106Z",
   "items": [
     {
       "type": "Picture",
-      "referenceName": "jezus_serce_01",
+      "referenceName": "Sw_Tomasz_z_Akwinu",
       "orderPosition": 1,
       "elementName": null
     },
@@ -17,7 +17,7 @@
     },
     {
       "type": "Picture",
-      "referenceName": "jezus_serce_01",
+      "referenceName": "jezus_milosierny_serce",
       "orderPosition": 3,
       "elementName": null
     },
@@ -49,11 +49,11 @@
       "type": "Song",
       "referenceName": "Dziękujemy Ci, Ojcze nasz",
       "orderPosition": 8,
-      "elementName": null
+      "elementName": "Uwielbienie"
     },
     {
       "type": "Picture",
-      "referenceName": "jezus_serce_01",
+      "referenceName": "kumunia_swieta_01",
       "orderPosition": 9,
       "elementName": null
     },
@@ -64,27 +64,33 @@
       "elementName": null
     },
     {
-      "type": "Song",
-      "referenceName": "Litania do Najświętszego Serca Pana Jezusa",
+      "type": "Picture",
+      "referenceName": "jezus_milosierny_serce",
       "orderPosition": 11,
       "elementName": null
     },
     {
-      "type": "Picture",
-      "referenceName": "jezus_serce_01",
+      "type": "Song",
+      "referenceName": "Litania do Najświętszego Serca Pana Jezusa",
       "orderPosition": 12,
+      "elementName": null
+    },
+    {
+      "type": "Picture",
+      "referenceName": "jezus_milosierny_serce",
+      "orderPosition": 13,
       "elementName": null
     },
     {
       "type": "Song",
       "referenceName": "Pobłogosław Jezu drogi",
-      "orderPosition": 13,
+      "orderPosition": 14,
       "elementName": "Rozesłanie"
     },
     {
       "type": "Picture",
-      "referenceName": "jezus_serce_01",
-      "orderPosition": 14,
+      "referenceName": "Sw_Tomasz_z_Akwinu",
+      "orderPosition": 15,
       "elementName": null
     }
   ]
