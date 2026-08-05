@@ -2,7 +2,7 @@
   "title": "Zdrowaś Maryjo",
   "author": null,
   "tonacja": "D-Dur",
-  "updatedAt": "2026-07-27T22:23:53.1262819Z",
+  "updatedAt": "2026-08-05T21:05:22.5512957Z",
   "tags": [
     "Liturgiczne",
     "Maryjne"
@@ -10,15 +10,27 @@
   "sections": [
     {
       "type": "Verse",
-      "text": "1. Zdrowaś Maryjo, Boga Rodzico! \r\nBłagamy Ciebie, święta Dziewico;\r\n/niech łaska Twoja zawsze nam sprzyja,\r\nmódl się za nami. Zdrowaś Maryja! /2x"
+      "text": "1. Zdrowaś Maryjo, \r\nBoga Rodzico! \r\nBłagamy Ciebie, \r\nświęta Dziewico;"
+    },
+    {
+      "type": "Refrain",
+      "text": "Niech łaska Twoja \r\nzawsze nam sprzyja,\r\nmódl się za nami. \r\nZdrowaś Maryja! /2x"
     },
     {
       "type": "Verse",
-      "text": "2. Wśród czystych duchów, w obliczu Pana,\r\nTyś przenajświętsza, Niepokalana\r\n/jak wpośród kwiatów wonna lilija,\r\njak wśród gwiazd zorza. Zdrowaś Maryja! /2x"
+      "text": "2. Wśród czystych duchów,\r\nw obliczu Pana,\r\nTyś przenajświętsza,\r\nNiepokalana"
+    },
+    {
+      "type": "Refrain",
+      "text": "Jak wpośród kwiatów \r\nwonna lilija,\r\njak wśród gwiazd zorza.\r\nZdrowaś Maryja! /2x"
     },
     {
       "type": "Verse",
-      "text": "3. Ty, coś karmiła świata Zbawienie,\r\nTy nam, jak matka, daj pożywienie; \r\n/niech brak żywności nas nie zabija,\r\nbroń nas od głodu. Zdrowaś Maryja!/2x"
+      "text": "3. Ty, coś karmiła \r\nświata Zbawienie,\r\nTy nam, jak matka, \r\ndaj pożywienie;"
+    },
+    {
+      "type": "Refrain",
+      "text": "Niech brak żywności \r\nnas nie zabija,\r\nbroń nas od głodu. \r\nZdrowaś Maryja!/2x"
     }
   ]
 }
