@@ -2,7 +2,7 @@
   "title": "Dziękujemy Ci, Ojcze nasz",
   "author": null,
   "tonacja": "C-Dur",
-  "updatedAt": "2026-07-22T20:26:49.3602874Z",
+  "updatedAt": "2026-08-05T21:02:46.4829857Z",
   "tags": [
     "Liturgiczne",
     "Uwielbienie"
@@ -14,7 +14,7 @@
     },
     {
       "type": "Refrain",
-      "text": "Refren: Tobie chwała na wieki."
+      "text": "Tobie chwała na wieki."
     },
     {
       "type": "Verse",
@@ -22,7 +22,7 @@
     },
     {
       "type": "Refrain",
-      "text": "Refren: Tobie chwała na wieki."
+      "text": "Tobie chwała na wieki."
     },
     {
       "type": "Verse",
@@ -30,7 +30,7 @@
     },
     {
       "type": "Refrain",
-      "text": "Refren: Tobie chwała na wieki."
+      "text": "Tobie chwała na wieki."
     },
     {
       "type": "Verse",
@@ -38,7 +38,7 @@
     },
     {
       "type": "Refrain",
-      "text": "Refren: Tobie chwała na wieki."
+      "text": "Tobie chwała na wieki."
     }
   ]
 }
