@@ -2,7 +2,7 @@
   "title": "Witam Cię, witam",
   "author": null,
   "tonacja": "C-Dur",
-  "updatedAt": "2026-07-22T20:26:56.8964552Z",
+  "updatedAt": "2026-08-05T21:19:41.4842847Z",
   "tags": [
     "Liturgiczne",
     "Wielki Post 1"
@@ -23,6 +23,10 @@
     {
       "type": "Verse",
       "text": "4. A kiedy przyjdzie z światem tym rozstanie, \u000Bratuj nas, ratuj, dobrotliwy Panie! \nNiech z Ciała Twego Przenajświętszego \u000Bposiłek mamy i oglądamy \u000BCiebie łaskawego."
+    },
+    {
+      "type": "Verse",
+      "text": ""
     }
   ]
 }
