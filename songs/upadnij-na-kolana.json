@@ -2,7 +2,7 @@
   "title": "Upadnij na kolana",
   "author": null,
   "tonacja": null,
-  "updatedAt": "2026-07-27T20:21:29.3986563Z",
+  "updatedAt": "2026-08-05T21:20:53.4955434Z",
   "tags": [
     "Liturgiczne",
     "Uwielbienie"
@@ -23,6 +23,10 @@
     {
       "type": "Verse",
       "text": "Pan wieczny zawsze, wszędzie,\nku nam łaską zdjęty,\nniech wiecznie wielbion będzie:\n„Święty, Święty, Święty!”."
+    },
+    {
+      "type": "Verse",
+      "text": ""
     }
   ]
 }
