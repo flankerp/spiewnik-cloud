@@ -1,0 +1,85 @@
+{
+  "name": "Wspomnienie obowiązkowe Najświętszej Maryi Panny Królowej",
+  "date": "2026-08-19",
+  "updatedAt": "2026-08-19T15:07:09.6130836Z",
+  "items": [
+    {
+      "type": "Picture",
+      "referenceName": "maryja_w_niebie",
+      "orderPosition": 1,
+      "elementName": null
+    },
+    {
+      "type": "Song",
+      "referenceName": "Z dawna Polski Tyś Królową",
+      "orderPosition": 2,
+      "elementName": "Wejście"
+    },
+    {
+      "type": "Picture",
+      "referenceName": "maryja_wniebowzieta1",
+      "orderPosition": 3,
+      "elementName": null
+    },
+    {
+      "type": "Song",
+      "referenceName": "PSALM na dziś",
+      "orderPosition": 4,
+      "elementName": "Psalm"
+    },
+    {
+      "type": "Picture",
+      "referenceName": "maryja_w_niebie",
+      "orderPosition": 5,
+      "elementName": null
+    },
+    {
+      "type": "Song",
+      "referenceName": "Zdrowaś Maryjo",
+      "orderPosition": 6,
+      "elementName": "Ofiarowanie"
+    },
+    {
+      "type": "Picture",
+      "referenceName": "jezus_w_kielichu",
+      "orderPosition": 7,
+      "elementName": null
+    },
+    {
+      "type": "Song",
+      "referenceName": "Zbliżam się w pokorze",
+      "orderPosition": 8,
+      "elementName": "Komunia"
+    },
+    {
+      "type": "Picture",
+      "referenceName": "kumunia_swieta_01",
+      "orderPosition": 9,
+      "elementName": null
+    },
+    {
+      "type": "Song",
+      "referenceName": "Dziękujemy Ci, Ojcze nasz",
+      "orderPosition": 10,
+      "elementName": "Uwielbienie"
+    },
+    {
+      "type": "Picture",
+      "referenceName": "maryja_w_niebie",
+      "orderPosition": 11,
+      "elementName": null
+    },
+    {
+      "type": "Song",
+      "referenceName": "Błogosławiona jesteś, Maryjo",
+      "orderPosition": 12,
+      "elementName": "Rozesłanie"
+    },
+    {
+      "type": "Picture",
+      "referenceName": "maryja_wniebowzieta1",
+      "orderPosition": 13,
+      "elementName": null
+    }
+  ]
+}
