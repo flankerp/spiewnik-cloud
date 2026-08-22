@@ -1,67 +1,67 @@
 {
   "name": "Wspomnienie obowiązkowe Najświętszej Maryi Panny Królowej",
   "date": "2026-08-22",
-  "updatedAt": "2026-08-19T15:08:28.8934449Z",
+  "updatedAt": "2026-08-19T16:32:09.6963373Z",
   "items": [
     {
       "type": "Picture",
-      "referenceName": "maryja_w_niebie",
+      "referenceName": "jezus_w_kielichu",
       "orderPosition": 1,
       "elementName": null
     },
     {
       "type": "Song",
-      "referenceName": "Z dawna Polski Tyś Królową",
+      "referenceName": "Przed tak wielkim Sakramentem",
       "orderPosition": 2,
-      "elementName": "Wejście"
+      "elementName": "Wystawienie"
     },
     {
       "type": "Picture",
-      "referenceName": "maryja_wniebowzieta1",
+      "referenceName": "jezus_w_kielichu",
       "orderPosition": 3,
       "elementName": null
     },
     {
       "type": "Song",
-      "referenceName": "PSALM na dziś",
+      "referenceName": "O Zbawcza Hostio",
       "orderPosition": 4,
-      "elementName": "Psalm"
+      "elementName": "Wystawienie"
     },
     {
       "type": "Picture",
-      "referenceName": "maryja_w_niebie",
+      "referenceName": "kumunia_swieta_02",
       "orderPosition": 5,
       "elementName": null
     },
     {
       "type": "Song",
-      "referenceName": "Zdrowaś Maryjo",
+      "referenceName": "Wielbię Ciebie",
       "orderPosition": 6,
-      "elementName": "Ofiarowanie"
+      "elementName": null
     },
     {
       "type": "Picture",
-      "referenceName": "jezus_w_kielichu",
+      "referenceName": "maryja_w_niebie",
       "orderPosition": 7,
       "elementName": null
     },
     {
       "type": "Song",
-      "referenceName": "Zbliżam się w pokorze",
+      "referenceName": "Z dawna Polski Tyś Królową",
       "orderPosition": 8,
-      "elementName": "Komunia"
+      "elementName": "Wejście"
     },
     {
       "type": "Picture",
-      "referenceName": "kumunia_swieta_01",
+      "referenceName": "maryja_wniebowzieta1",
       "orderPosition": 9,
       "elementName": null
     },
     {
       "type": "Song",
-      "referenceName": "Dziękujemy Ci, Ojcze nasz",
+      "referenceName": "PSALM na dziś",
       "orderPosition": 10,
-      "elementName": "Uwielbienie"
+      "elementName": "Psalm"
     },
     {
       "type": "Picture",
@@ -71,14 +71,50 @@
     },
     {
       "type": "Song",
-      "referenceName": "Błogosławiona jesteś, Maryjo",
+      "referenceName": "Zdrowaś Maryjo",
       "orderPosition": 12,
+      "elementName": "Ofiarowanie"
+    },
+    {
+      "type": "Picture",
+      "referenceName": "jezus_w_kielichu",
+      "orderPosition": 13,
+      "elementName": null
+    },
+    {
+      "type": "Song",
+      "referenceName": "Zbliżam się w pokorze",
+      "orderPosition": 14,
+      "elementName": "Komunia"
+    },
+    {
+      "type": "Picture",
+      "referenceName": "kumunia_swieta_01",
+      "orderPosition": 15,
+      "elementName": null
+    },
+    {
+      "type": "Song",
+      "referenceName": "Dziękujemy Ci, Ojcze nasz",
+      "orderPosition": 16,
+      "elementName": "Uwielbienie"
+    },
+    {
+      "type": "Picture",
+      "referenceName": "maryja_w_niebie",
+      "orderPosition": 17,
+      "elementName": null
+    },
+    {
+      "type": "Song",
+      "referenceName": "Błogosławiona jesteś, Maryjo",
+      "orderPosition": 18,
       "elementName": "Rozesłanie"
     },
     {
       "type": "Picture",
       "referenceName": "maryja_wniebowzieta1",
-      "orderPosition": 13,
+      "orderPosition": 19,
       "elementName": null
     }
   ]
