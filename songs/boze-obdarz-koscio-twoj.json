@@ -1,0 +1,25 @@
+{
+  "title": "Boże, obdarz Kościół Twój",
+  "author": null,
+  "tonacja": "C-Dur",
+  "updatedAt": "2026-09-04T15:58:20.5799117Z",
+  "tags": [],
+  "sections": [
+    {
+      "type": "Refrain",
+      "text": "Boże, obdarz Kościół Twój\njednością i pokojem!"
+    },
+    {
+      "type": "Verse",
+      "text": "Uradowałem się wezwaniem:\npójdziemy do domu Pana.\nI oto stoję u bram Twoich,\nJeruzalem nowe, Kościele Święty! Ref."
+    },
+    {
+      "type": "Verse",
+      "text": "O Jeruzalem, miasto pokoju,\nw Tobie wszyscy się jednoczą.\nPrzychodzą doń pokolenia,\naby wielbić imię Pana. Ref."
+    },
+    {
+      "type": "Verse",
+      "text": "Prosimy o pokój dla ludu Twego,\nniech będą bezpieczni, którzy Cię miłują.\nDla braci i bliźnich naszych\nprosimy o dobra Twoje. Ref."
+    }
+  ]
+}
