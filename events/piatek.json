@@ -1,7 +1,7 @@
 {
   "name": "Piątek",
-  "date": "2026-08-07",
-  "updatedAt": "2026-08-07T14:57:02.6988733Z",
+  "date": "2026-09-04",
+  "updatedAt": "2026-09-04T18:16:43.8819617Z",
   "items": [
     {
       "type": "Picture",
@@ -11,9 +11,9 @@
     },
     {
       "type": "Song",
-      "referenceName": "Pod Twą obronę",
+      "referenceName": "Przed tak wielkim Sakramentem",
       "orderPosition": 2,
-      "elementName": "Wejście"
+      "elementName": null
     },
     {
       "type": "Picture",
@@ -23,9 +23,9 @@
     },
     {
       "type": "Song",
-      "referenceName": "PSALM na dziś",
+      "referenceName": "Wielbię Ciebie",
       "orderPosition": 4,
-      "elementName": "Psalm"
+      "elementName": "Uwielbienie"
     },
     {
       "type": "Picture",
@@ -35,50 +35,80 @@
     },
     {
       "type": "Song",
-      "referenceName": "Czego chcesz od nas Panie, za Twe hojne dary",
+      "referenceName": "Kto się w opiekę",
       "orderPosition": 6,
-      "elementName": "Ofiarowanie"
+      "elementName": "Wejście"
     },
     {
       "type": "Picture",
-      "referenceName": "jezus_w_kielichu",
+      "referenceName": "jezus_milosierny_serce",
       "orderPosition": 7,
       "elementName": null
     },
     {
       "type": "Song",
-      "referenceName": "Chrystus Pan karmi nas",
+      "referenceName": "PSALM na dziś",
       "orderPosition": 8,
-      "elementName": "Komunia"
+      "elementName": "Psalm"
     },
     {
       "type": "Picture",
-      "referenceName": "udzielanie_kumuni_1",
+      "referenceName": "jezus_milosierny_serce",
       "orderPosition": 9,
       "elementName": null
     },
     {
       "type": "Song",
-      "referenceName": "Wielbię Ciebie",
+      "referenceName": "Boże, obdarz Kościół Twój",
       "orderPosition": 10,
-      "elementName": "Uwielbienie"
+      "elementName": "Ofiarowanie"
     },
     {
       "type": "Picture",
-      "referenceName": "jezus_milosierny_serce",
+      "referenceName": "jezus_w_kielichu",
       "orderPosition": 11,
       "elementName": null
     },
     {
       "type": "Song",
-      "referenceName": "Pobłogosław Jezu drogi",
+      "referenceName": "Chrystus Pan karmi nas",
       "orderPosition": 12,
+      "elementName": "Komunia"
+    },
+    {
+      "type": "Picture",
+      "referenceName": "udzielanie_kumuni_1",
+      "orderPosition": 13,
+      "elementName": null
+    },
+    {
+      "type": "Song",
+      "referenceName": "Wielbię Ciebie",
+      "orderPosition": 14,
+      "elementName": "Uwielbienie"
+    },
+    {
+      "type": "Picture",
+      "referenceName": "jezus_milosierny_serce",
+      "orderPosition": 15,
+      "elementName": null
+    },
+    {
+      "type": "Song",
+      "referenceName": "Pobłogosław Jezu drogi",
+      "orderPosition": 16,
       "elementName": "Rozesłanie"
     },
     {
       "type": "Picture",
       "referenceName": "jezus_milosierny_serce",
-      "orderPosition": 13,
+      "orderPosition": 17,
+      "elementName": null
+    },
+    {
+      "type": "Picture",
+      "referenceName": "jezus_milosierny_serce",
+      "orderPosition": 18,
       "elementName": null
     }
   ]
