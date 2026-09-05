@@ -1,0 +1,97 @@
+{
+  "name": "Niedziela",
+  "date": "2026-09-06",
+  "updatedAt": "2026-09-05T19:15:16.9897608Z",
+  "items": [
+    {
+      "type": "Picture",
+      "referenceName": "Ostatnia wieczerza",
+      "orderPosition": 1,
+      "elementName": null
+    },
+    {
+      "type": "Song",
+      "referenceName": "Boże, w dobroci nigdy nie przebrany",
+      "orderPosition": 2,
+      "elementName": "Wejście"
+    },
+    {
+      "type": "Picture",
+      "referenceName": "jezus_milosierny_serce",
+      "orderPosition": 3,
+      "elementName": null
+    },
+    {
+      "type": "Song",
+      "referenceName": "PSALM na dziś",
+      "orderPosition": 4,
+      "elementName": "Psalm"
+    },
+    {
+      "type": "Picture",
+      "referenceName": "jezus_milosierny_serce",
+      "orderPosition": 5,
+      "elementName": null
+    },
+    {
+      "type": "Song",
+      "referenceName": "Przykazanie nowe daję wam",
+      "orderPosition": 6,
+      "elementName": "Ofiarowanie"
+    },
+    {
+      "type": "Picture",
+      "referenceName": "jezus_w_kielichu",
+      "orderPosition": 7,
+      "elementName": null
+    },
+    {
+      "type": "Song",
+      "referenceName": "Ciebie całą duszą pragnę",
+      "orderPosition": 8,
+      "elementName": "Komunia"
+    },
+    {
+      "type": "Picture",
+      "referenceName": "udzielanie_kumuni_1",
+      "orderPosition": 9,
+      "elementName": null
+    },
+    {
+      "type": "Song",
+      "referenceName": "O Panie, Tyś moim Pasterzem",
+      "orderPosition": 10,
+      "elementName": "Komunia"
+    },
+    {
+      "type": "Picture",
+      "referenceName": "kumunia_swieta_01",
+      "orderPosition": 11,
+      "elementName": null
+    },
+    {
+      "type": "Song",
+      "referenceName": "Dziękujemy Ci, Ojcze nasz",
+      "orderPosition": 12,
+      "elementName": "Uwielbienie"
+    },
+    {
+      "type": "Picture",
+      "referenceName": "jezus_milosierny_serce",
+      "orderPosition": 13,
+      "elementName": null
+    },
+    {
+      "type": "Song",
+      "referenceName": "Kto się w opiekę",
+      "orderPosition": 14,
+      "elementName": "Rozesłanie"
+    },
+    {
+      "type": "Picture",
+      "referenceName": "Ostatnia wieczerza",
+      "orderPosition": 15,
+      "elementName": null
+    }
+  ]
+}
