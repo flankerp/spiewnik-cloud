@@ -1,7 +1,7 @@
 {
   "name": "Piątek",
-  "date": "2026-09-04",
-  "updatedAt": "2026-09-04T18:16:43.8819617Z",
+  "date": "2026-08-07",
+  "updatedAt": "2026-08-07T14:57:02.6988733Z",
   "items": [
     {
       "type": "Picture",
@@ -11,9 +11,9 @@
     },
     {
       "type": "Song",
-      "referenceName": "Przed tak wielkim Sakramentem",
+      "referenceName": "Pod Twą obronę",
       "orderPosition": 2,
-      "elementName": null
+      "elementName": "Wejście"
     },
     {
       "type": "Picture",
@@ -23,9 +23,9 @@
     },
     {
       "type": "Song",
-      "referenceName": "Wielbię Ciebie",
+      "referenceName": "PSALM na dziś",
       "orderPosition": 4,
-      "elementName": "Uwielbienie"
+      "elementName": "Psalm"
     },
     {
       "type": "Picture",
@@ -35,74 +35,50 @@
     },
     {
       "type": "Song",
-      "referenceName": "Kto się w opiekę",
+      "referenceName": "Czego chcesz od nas Panie, za Twe hojne dary",
       "orderPosition": 6,
-      "elementName": "Wejście"
-    },
-    {
-      "type": "Picture",
-      "referenceName": "jezus_milosierny_serce",
-      "orderPosition": 7,
-      "elementName": null
-    },
-    {
-      "type": "Song",
-      "referenceName": "PSALM na dziś",
-      "orderPosition": 8,
-      "elementName": "Psalm"
-    },
-    {
-      "type": "Picture",
-      "referenceName": "jezus_milosierny_serce",
-      "orderPosition": 9,
-      "elementName": null
-    },
-    {
-      "type": "Song",
-      "referenceName": "Boże, obdarz Kościół Twój",
-      "orderPosition": 10,
       "elementName": "Ofiarowanie"
     },
     {
       "type": "Picture",
       "referenceName": "jezus_w_kielichu",
-      "orderPosition": 11,
+      "orderPosition": 7,
       "elementName": null
     },
     {
       "type": "Song",
       "referenceName": "Chrystus Pan karmi nas",
-      "orderPosition": 12,
+      "orderPosition": 8,
       "elementName": "Komunia"
     },
     {
       "type": "Picture",
       "referenceName": "udzielanie_kumuni_1",
-      "orderPosition": 13,
+      "orderPosition": 9,
       "elementName": null
     },
     {
       "type": "Song",
       "referenceName": "Wielbię Ciebie",
-      "orderPosition": 14,
+      "orderPosition": 10,
       "elementName": "Uwielbienie"
     },
     {
       "type": "Picture",
       "referenceName": "jezus_milosierny_serce",
-      "orderPosition": 15,
+      "orderPosition": 11,
       "elementName": null
     },
     {
       "type": "Song",
       "referenceName": "Pobłogosław Jezu drogi",
-      "orderPosition": 16,
+      "orderPosition": 12,
       "elementName": "Rozesłanie"
     },
     {
       "type": "Picture",
       "referenceName": "jezus_milosierny_serce",
-      "orderPosition": 17,
+      "orderPosition": 13,
       "elementName": null
     }
   ]
