@@ -1,0 +1,97 @@
+{
+  "name": "Rozpoczęcie roku formacyjnego 2026",
+  "date": "2026-09-12",
+  "updatedAt": "2026-09-11T16:48:35.1191371Z",
+  "items": [
+    {
+      "type": "Picture",
+      "referenceName": "logo_roku_2026",
+      "orderPosition": 1,
+      "elementName": null
+    },
+    {
+      "type": "Song",
+      "referenceName": "Panie, światło miłości Twej świeci",
+      "orderPosition": 2,
+      "elementName": null
+    },
+    {
+      "type": "Picture",
+      "referenceName": "jezus_milosierny_serce",
+      "orderPosition": 3,
+      "elementName": null
+    },
+    {
+      "type": "Song",
+      "referenceName": "Psalm - rozpoczęcie roku formacyjnego 2026",
+      "orderPosition": 4,
+      "elementName": "Psalm"
+    },
+    {
+      "type": "Picture",
+      "referenceName": "logo_roku_2026",
+      "orderPosition": 5,
+      "elementName": null
+    },
+    {
+      "type": "Song",
+      "referenceName": "Niech miłość",
+      "orderPosition": 6,
+      "elementName": null
+    },
+    {
+      "type": "Picture",
+      "referenceName": "jezus_w_kielichu",
+      "orderPosition": 7,
+      "elementName": null
+    },
+    {
+      "type": "Song",
+      "referenceName": "Zbliżam się w pokorze",
+      "orderPosition": 8,
+      "elementName": "Komunia"
+    },
+    {
+      "type": "Picture",
+      "referenceName": "udzielanie_kumuni_1",
+      "orderPosition": 9,
+      "elementName": null
+    },
+    {
+      "type": "Song",
+      "referenceName": "Chrystus Pan karmi nas",
+      "orderPosition": 10,
+      "elementName": "Komunia"
+    },
+    {
+      "type": "Picture",
+      "referenceName": "jezus_milosierny_serce",
+      "orderPosition": 11,
+      "elementName": null
+    },
+    {
+      "type": "Song",
+      "referenceName": "Magnificat (anime mea)",
+      "orderPosition": 12,
+      "elementName": "Uwielbienie"
+    },
+    {
+      "type": "Picture",
+      "referenceName": "logo_roku_2026",
+      "orderPosition": 13,
+      "elementName": null
+    },
+    {
+      "type": "Song",
+      "referenceName": "Błogosławiona jesteś, Maryjo",
+      "orderPosition": 14,
+      "elementName": "Rozesłanie"
+    },
+    {
+      "type": "Picture",
+      "referenceName": "logo_roku_2026",
+      "orderPosition": 15,
+      "elementName": null
+    }
+  ]
+}
