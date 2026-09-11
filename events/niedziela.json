@@ -1,11 +1,11 @@
 {
   "name": "Niedziela",
   "date": "2026-09-06",
-  "updatedAt": "2026-09-05T19:15:16.9897608Z",
+  "updatedAt": "2026-09-06T15:09:19.1122735Z",
   "items": [
     {
       "type": "Picture",
-      "referenceName": "Ostatnia wieczerza",
+      "referenceName": "jezus_milosierny_serce",
       "orderPosition": 1,
       "elementName": null
     },
@@ -17,7 +17,7 @@
     },
     {
       "type": "Picture",
-      "referenceName": "jezus_milosierny_serce",
+      "referenceName": "Ostatnia wieczerza",
       "orderPosition": 3,
       "elementName": null
     },
