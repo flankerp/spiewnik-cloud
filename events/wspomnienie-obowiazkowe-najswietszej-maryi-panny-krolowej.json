@@ -1,121 +1,140 @@
 {
   "name": "Wspomnienie obowiązkowe Najświętszej Maryi Panny Królowej",
-  "date": "2026-08-22",
-  "updatedAt": "2026-08-22T00:18:31.9341605Z",
+  "date": "2026-08-22T00:00:00.0000000",
+  "updatedAt": "2026-10-06T14:51:27.1044447Z",
   "items": [
     {
-      "type": "Picture",
+      "type": "picture",
       "referenceName": "jezus_w_kielichu",
       "orderPosition": 1,
-      "elementName": null
+      "elementName": null,
+      "selectedVerses": null
     },
     {
-      "type": "Song",
+      "type": "song",
       "referenceName": "Przed tak wielkim Sakramentem",
       "orderPosition": 2,
-      "elementName": "Wystawienie"
+      "elementName": "Wystawienie",
+      "selectedVerses": null
     },
     {
-      "type": "Picture",
+      "type": "picture",
       "referenceName": "jezus_w_kielichu",
       "orderPosition": 3,
-      "elementName": null
+      "elementName": null,
+      "selectedVerses": null
     },
     {
-      "type": "Song",
+      "type": "song",
       "referenceName": "O Zbawcza Hostio",
       "orderPosition": 4,
-      "elementName": "Wystawienie"
+      "elementName": "Wystawienie",
+      "selectedVerses": null
     },
     {
-      "type": "Picture",
+      "type": "picture",
       "referenceName": "kumunia_swieta_02",
       "orderPosition": 5,
-      "elementName": null
+      "elementName": null,
+      "selectedVerses": null
     },
     {
-      "type": "Song",
+      "type": "song",
       "referenceName": "Wielbię Ciebie",
       "orderPosition": 6,
-      "elementName": null
+      "elementName": null,
+      "selectedVerses": null
     },
     {
-      "type": "Picture",
+      "type": "picture",
       "referenceName": "maryja_w_niebie",
       "orderPosition": 7,
-      "elementName": null
+      "elementName": null,
+      "selectedVerses": null
     },
     {
-      "type": "Song",
+      "type": "song",
       "referenceName": "Z dawna Polski Tyś Królową",
       "orderPosition": 8,
-      "elementName": "Wejście"
+      "elementName": "Wejście",
+      "selectedVerses": null
     },
     {
-      "type": "Picture",
+      "type": "picture",
       "referenceName": "maryja_wniebowzieta1",
       "orderPosition": 9,
-      "elementName": null
+      "elementName": null,
+      "selectedVerses": null
     },
     {
-      "type": "Song",
+      "type": "song",
       "referenceName": "PSALM na dziś",
       "orderPosition": 10,
-      "elementName": "Psalm"
+      "elementName": "Psalm",
+      "selectedVerses": null
     },
     {
-      "type": "Picture",
+      "type": "picture",
       "referenceName": "maryja_w_niebie",
       "orderPosition": 11,
-      "elementName": null
+      "elementName": null,
+      "selectedVerses": null
     },
     {
-      "type": "Song",
+      "type": "song",
       "referenceName": "Zdrowaś Maryjo",
       "orderPosition": 12,
-      "elementName": "Ofiarowanie"
+      "elementName": "Ofiarowanie",
+      "selectedVerses": null
     },
     {
-      "type": "Picture",
+      "type": "picture",
       "referenceName": "jezus_w_kielichu",
       "orderPosition": 13,
-      "elementName": null
+      "elementName": null,
+      "selectedVerses": null
     },
     {
-      "type": "Song",
+      "type": "song",
       "referenceName": "Zbliżam się w pokorze",
       "orderPosition": 14,
-      "elementName": "Komunia"
+      "elementName": "Komunia",
+      "selectedVerses": null
     },
     {
-      "type": "Picture",
+      "type": "picture",
       "referenceName": "kumunia_swieta_01",
       "orderPosition": 15,
-      "elementName": null
+      "elementName": null,
+      "selectedVerses": null
     },
     {
-      "type": "Song",
+      "type": "song",
       "referenceName": "Dziękujemy Ci, Ojcze nasz",
       "orderPosition": 16,
-      "elementName": "Uwielbienie"
+      "elementName": "Uwielbienie",
+      "selectedVerses": null
     },
     {
-      "type": "Picture",
+      "type": "picture",
       "referenceName": "maryja_w_niebie",
       "orderPosition": 17,
-      "elementName": null
+      "elementName": null,
+      "selectedVerses": null
     },
     {
-      "type": "Song",
+      "type": "song",
       "referenceName": "Błogosławiona jesteś, Maryjo",
       "orderPosition": 18,
-      "elementName": "Rozesłanie"
+      "elementName": "Rozesłanie",
+      "selectedVerses": null
     },
     {
-      "type": "Picture",
+      "type": "picture",
       "referenceName": "maryja_wniebowzieta1",
       "orderPosition": 19,
-      "elementName": null
+      "elementName": null,
+      "selectedVerses": null
     }
   ]
 }
