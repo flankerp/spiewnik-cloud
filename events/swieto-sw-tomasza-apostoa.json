@@ -7,91 +7,106 @@
       "type": "Picture",
       "referenceName": "Sw_Tomasz_z_Akwinu",
       "orderPosition": 1,
-      "elementName": null
+      "elementName": null,
+      "selectedVerses": null
     },
     {
       "type": "Song",
       "referenceName": "Com przyrzekł Bogu",
       "orderPosition": 2,
-      "elementName": "Wejście"
+      "elementName": "Wejście",
+      "selectedVerses": null
     },
     {
       "type": "Picture",
       "referenceName": "jezus_milosierny_serce",
       "orderPosition": 3,
-      "elementName": null
+      "elementName": null,
+      "selectedVerses": null
     },
     {
       "type": "Song",
       "referenceName": "PSALM na dziś",
       "orderPosition": 4,
-      "elementName": "Psalm"
+      "elementName": "Psalm",
+      "selectedVerses": null
     },
     {
       "type": "Picture",
       "referenceName": "kumunia_swieta_02",
       "orderPosition": 5,
-      "elementName": null
+      "elementName": null,
+      "selectedVerses": null
     },
     {
       "type": "Song",
       "referenceName": "Ciebie całą duszą pragnę",
       "orderPosition": 6,
-      "elementName": "Ofiarowanie"
+      "elementName": "Ofiarowanie",
+      "selectedVerses": null
     },
     {
       "type": "Picture",
       "referenceName": "kumunia_swieta_02",
       "orderPosition": 7,
-      "elementName": null
+      "elementName": null,
+      "selectedVerses": null
     },
     {
       "type": "Song",
       "referenceName": "Dziękujemy Ci, Ojcze nasz",
       "orderPosition": 8,
-      "elementName": "Uwielbienie"
+      "elementName": "Uwielbienie",
+      "selectedVerses": null
     },
     {
       "type": "Picture",
       "referenceName": "kumunia_swieta_01",
       "orderPosition": 9,
-      "elementName": null
+      "elementName": null,
+      "selectedVerses": null
     },
     {
       "type": "Song",
       "referenceName": "Przed tak wielkim Sakramentem",
       "orderPosition": 10,
-      "elementName": null
+      "elementName": null,
+      "selectedVerses": null
     },
     {
       "type": "Picture",
       "referenceName": "jezus_milosierny_serce",
       "orderPosition": 11,
-      "elementName": null
+      "elementName": null,
+      "selectedVerses": null
     },
     {
       "type": "Song",
       "referenceName": "Litania do Najświętszego Serca Pana Jezusa",
       "orderPosition": 12,
-      "elementName": null
+      "elementName": null,
+      "selectedVerses": null
     },
     {
       "type": "Picture",
       "referenceName": "jezus_milosierny_serce",
       "orderPosition": 13,
-      "elementName": null
+      "elementName": null,
+      "selectedVerses": null
     },
     {
       "type": "Song",
       "referenceName": "Pobłogosław Jezu drogi",
       "orderPosition": 14,
-      "elementName": "Rozesłanie"
+      "elementName": "Rozesłanie",
+      "selectedVerses": null
     },
     {
       "type": "Picture",
       "referenceName": "Sw_Tomasz_z_Akwinu",
       "orderPosition": 15,
-      "elementName": null
+      "elementName": null,
+      "selectedVerses": null
     }
   ]
 }
