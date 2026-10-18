@@ -1,109 +1,126 @@
 {
   "name": "Rozpoczęcie roku formacyjnego 2026",
   "date": "2026-09-12",
-  "updatedAt": "2026-09-12T10:01:06.7216836Z",
+  "updatedAt": "2026-09-22T15:46:02.8222913Z",
   "items": [
     {
       "type": "Picture",
       "referenceName": "logo_roku_2026",
       "orderPosition": 1,
-      "elementName": null
+      "elementName": null,
+      "selectedVerses": null
     },
     {
       "type": "Song",
       "referenceName": "Panie, światło miłości Twej świeci",
       "orderPosition": 2,
-      "elementName": null
+      "elementName": null,
+      "selectedVerses": null
     },
     {
       "type": "Picture",
       "referenceName": "jezus_milosierny_serce",
       "orderPosition": 3,
-      "elementName": null
+      "elementName": null,
+      "selectedVerses": null
     },
     {
       "type": "Song",
       "referenceName": "Psalm - rozpoczęcie roku formacyjnego 2026",
       "orderPosition": 4,
-      "elementName": "Psalm"
+      "elementName": "Psalm",
+      "selectedVerses": null
     },
     {
       "type": "Picture",
       "referenceName": "logo_roku_2026",
       "orderPosition": 5,
-      "elementName": null
+      "elementName": null,
+      "selectedVerses": null
     },
     {
       "type": "Song",
       "referenceName": "Niech miłość",
       "orderPosition": 6,
-      "elementName": null
+      "elementName": null,
+      "selectedVerses": null
     },
     {
       "type": "Picture",
       "referenceName": "jezus_w_kielichu",
       "orderPosition": 7,
-      "elementName": null
+      "elementName": null,
+      "selectedVerses": null
     },
     {
       "type": "Song",
       "referenceName": "Zbliżam się w pokorze",
       "orderPosition": 8,
-      "elementName": "Komunia"
+      "elementName": "Komunia",
+      "selectedVerses": null
     },
     {
       "type": "Picture",
       "referenceName": "udzielanie_kumuni_1",
       "orderPosition": 9,
-      "elementName": null
+      "elementName": null,
+      "selectedVerses": null
     },
     {
       "type": "Song",
       "referenceName": "Chrystus Pan karmi nas",
       "orderPosition": 10,
-      "elementName": "Komunia"
+      "elementName": "Komunia",
+      "selectedVerses": null
     },
     {
       "type": "Picture",
       "referenceName": "jezus_milosierny_serce",
       "orderPosition": 11,
-      "elementName": null
+      "elementName": null,
+      "selectedVerses": null
     },
     {
       "type": "Song",
       "referenceName": "Magnificat (anime mea)",
       "orderPosition": 12,
-      "elementName": "Uwielbienie"
+      "elementName": "Uwielbienie",
+      "selectedVerses": null
     },
     {
       "type": "Picture",
       "referenceName": "logo_roku_2026",
       "orderPosition": 13,
-      "elementName": null
+      "elementName": null,
+      "selectedVerses": null
     },
     {
       "type": "Song",
       "referenceName": "Błogosławiona jesteś, Maryjo",
       "orderPosition": 14,
-      "elementName": "Rozesłanie"
+      "elementName": "Rozesłanie",
+      "selectedVerses": null
     },
     {
       "type": "Picture",
       "referenceName": "logo_roku_2026",
       "orderPosition": 15,
-      "elementName": null
+      "elementName": null,
+      "selectedVerses": null
     },
     {
       "type": "Song",
       "referenceName": "Zjednoczeni w Duchu, zjednoczeni w Nim",
       "orderPosition": 16,
-      "elementName": null
+      "elementName": null,
+      "selectedVerses": null
     },
     {
       "type": "Picture",
       "referenceName": "logo_roku_2026",
       "orderPosition": 17,
-      "elementName": null
+      "elementName": null,
+      "selectedVerses": null
     }
   ]
 }
