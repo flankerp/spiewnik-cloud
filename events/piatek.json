@@ -1,124 +1,82 @@
 {
   "name": "Piątek",
-  "date": "2026-09-04T00:00:00.0000000",
-  "updatedAt": "2026-10-06T14:51:25.4597444Z",
+  "date": "2026-10-02",
+  "updatedAt": "2026-10-02T18:16:12.3814784Z",
   "items": [
     {
-      "type": "picture",
+      "type": "Picture",
       "referenceName": "jezus_milosierny_serce",
       "orderPosition": 1,
       "elementName": null,
       "selectedVerses": null
     },
     {
-      "type": "song",
-      "referenceName": "Przed tak wielkim Sakramentem",
+      "type": "Song",
+      "referenceName": "Kłaniam się Tobie, przedwieczny Boże",
       "orderPosition": 2,
-      "elementName": null,
+      "elementName": "Wejście",
       "selectedVerses": null
     },
     {
-      "type": "picture",
+      "type": "Picture",
       "referenceName": "jezus_milosierny_serce",
       "orderPosition": 3,
       "elementName": null,
       "selectedVerses": null
     },
     {
-      "type": "song",
-      "referenceName": "Wielbię Ciebie",
+      "type": "Song",
+      "referenceName": "Kto się w opiekę",
       "orderPosition": 4,
-      "elementName": "Uwielbienie",
+      "elementName": "Ofiarowanie",
       "selectedVerses": null
     },
     {
-      "type": "picture",
-      "referenceName": "jezus_milosierny_serce",
+      "type": "Picture",
+      "referenceName": "kumunia_swieta_02",
       "orderPosition": 5,
       "elementName": null,
       "selectedVerses": null
     },
     {
-      "type": "song",
-      "referenceName": "Kto się w opiekę",
+      "type": "Song",
+      "referenceName": "Chrystus Pan karmi nas",
       "orderPosition": 6,
-      "elementName": "Wejście",
+      "elementName": "Komunia",
       "selectedVerses": null
     },
     {
-      "type": "picture",
-      "referenceName": "jezus_milosierny_serce",
+      "type": "Picture",
+      "referenceName": "jezus_w_kielichu",
       "orderPosition": 7,
       "elementName": null,
       "selectedVerses": null
     },
     {
-      "type": "song",
-      "referenceName": "PSALM na dziś",
+      "type": "Song",
+      "referenceName": "Dziękujemy Ci, Ojcze nasz",
       "orderPosition": 8,
-      "elementName": "Psalm",
+      "elementName": "Uwielbienie",
       "selectedVerses": null
     },
     {
-      "type": "picture",
+      "type": "Picture",
       "referenceName": "jezus_milosierny_serce",
       "orderPosition": 9,
       "elementName": null,
       "selectedVerses": null
     },
     {
-      "type": "song",
-      "referenceName": "Boże, obdarz Kościół Twój",
-      "orderPosition": 10,
-      "elementName": "Ofiarowanie",
-      "selectedVerses": null
-    },
-    {
-      "type": "picture",
-      "referenceName": "jezus_w_kielichu",
-      "orderPosition": 11,
-      "elementName": null,
-      "selectedVerses": null
-    },
-    {
-      "type": "song",
-      "referenceName": "Chrystus Pan karmi nas",
-      "orderPosition": 12,
-      "elementName": "Komunia",
-      "selectedVerses": null
-    },
-    {
-      "type": "picture",
-      "referenceName": "udzielanie_kumuni_1",
-      "orderPosition": 13,
-      "elementName": null,
-      "selectedVerses": null
-    },
-    {
-      "type": "song",
-      "referenceName": "Wielbię Ciebie",
-      "orderPosition": 14,
-      "elementName": "Uwielbienie",
-      "selectedVerses": null
-    },
-    {
-      "type": "picture",
-      "referenceName": "jezus_milosierny_serce",
-      "orderPosition": 15,
-      "elementName": null,
-      "selectedVerses": null
-    },
-    {
-      "type": "song",
+      "type": "Song",
       "referenceName": "Pobłogosław Jezu drogi",
-      "orderPosition": 16,
+      "orderPosition": 10,
       "elementName": "Rozesłanie",
       "selectedVerses": null
     },
     {
-      "type": "picture",
+      "type": "Picture",
       "referenceName": "jezus_milosierny_serce",
-      "orderPosition": 17,
+      "orderPosition": 11,
       "elementName": null,
       "selectedVerses": null
     }
