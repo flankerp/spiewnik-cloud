@@ -1,7 +1,7 @@
 {
   "name": "Niedziela",
-  "date": "2026-10-18",
-  "updatedAt": "2026-10-18T11:33:25.2161671Z",
+  "date": "2026-10-11",
+  "updatedAt": "2026-10-11T15:11:27.6665146Z",
   "items": [
     {
       "type": "Picture",
@@ -12,7 +12,7 @@
     },
     {
       "type": "Song",
-      "referenceName": "Kto się w opiekę",
+      "referenceName": "O Panie, Tyś moim Pasterzem",
       "orderPosition": 2,
       "elementName": "Wejście",
       "selectedVerses": null
@@ -40,7 +40,7 @@
     },
     {
       "type": "Song",
-      "referenceName": "Wszystko Tobie oddać pragnę",
+      "referenceName": "Jezu, ufam Tobie (Nasze plany i nadzieje)",
       "orderPosition": 6,
       "elementName": "Ofiarowanie",
       "selectedVerses": null
@@ -54,21 +54,21 @@
     },
     {
       "type": "Song",
-      "referenceName": "Kłaniam się Tobie, przedwieczny Boże",
+      "referenceName": "Chrystus Pan karmi nas",
       "orderPosition": 8,
       "elementName": "Komunia",
       "selectedVerses": null
     },
     {
       "type": "Picture",
-      "referenceName": "udzielanie_kumuni_1",
+      "referenceName": "Ostatnia wieczerza",
       "orderPosition": 9,
       "elementName": null,
       "selectedVerses": null
     },
     {
       "type": "Song",
-      "referenceName": "Zbliżam się w pokorze",
+      "referenceName": "Jeden chleb",
       "orderPosition": 10,
       "elementName": "Komunia",
       "selectedVerses": null
@@ -82,36 +82,29 @@
     },
     {
       "type": "Song",
-      "referenceName": "Dziękujemy Ci, Ojcze nasz",
+      "referenceName": "Dzięki, o Panie",
       "orderPosition": 12,
       "elementName": "Uwielbienie",
       "selectedVerses": null
     },
     {
       "type": "Picture",
-      "referenceName": "jezus_milosierny_serce",
+      "referenceName": "maryja_wniebowzieta1",
       "orderPosition": 13,
       "elementName": null,
       "selectedVerses": null
     },
     {
-      "type": "Picture",
-      "referenceName": "jezus_milosierny_serce",
-      "orderPosition": 14,
-      "elementName": null,
-      "selectedVerses": null
-    },
-    {
       "type": "Song",
-      "referenceName": "O Pani, ufność nasza w modlitwy Twej obronie",
-      "orderPosition": 15,
+      "referenceName": "Witaj Gwiazdo morza",
+      "orderPosition": 14,
       "elementName": "Rozesłanie",
       "selectedVerses": null
     },
     {
       "type": "Picture",
-      "referenceName": "jezus_milosierny_serce",
-      "orderPosition": 16,
+      "referenceName": "maryja_koronacja",
+      "orderPosition": 15,
       "elementName": null,
       "selectedVerses": null
     }
