@@ -7,91 +7,106 @@
       "type": "Picture",
       "referenceName": "maryja_wniebowzieta1",
       "orderPosition": 1,
-      "elementName": null
+      "elementName": null,
+      "selectedVerses": null
     },
     {
       "type": "Song",
       "referenceName": "Witaj Gwiazdo morza",
       "orderPosition": 2,
-      "elementName": "Wejście"
+      "elementName": "Wejście",
+      "selectedVerses": null
     },
     {
       "type": "Picture",
       "referenceName": "maryja_wniebowzieta1",
       "orderPosition": 3,
-      "elementName": null
+      "elementName": null,
+      "selectedVerses": null
     },
     {
       "type": "Song",
       "referenceName": "Psalm Wniebozięcie Maryji",
       "orderPosition": 4,
-      "elementName": "Psalm"
+      "elementName": "Psalm",
+      "selectedVerses": null
     },
     {
       "type": "Picture",
       "referenceName": "maryja_koronacja",
       "orderPosition": 5,
-      "elementName": null
+      "elementName": null,
+      "selectedVerses": null
     },
     {
       "type": "Song",
       "referenceName": "Zdrowaś Maryjo",
       "orderPosition": 6,
-      "elementName": "Ofiarowanie"
+      "elementName": "Ofiarowanie",
+      "selectedVerses": null
     },
     {
       "type": "Picture",
       "referenceName": "jezus_w_kielichu",
       "orderPosition": 7,
-      "elementName": null
+      "elementName": null,
+      "selectedVerses": null
     },
     {
       "type": "Song",
       "referenceName": "Chrystus Pan karmi nas",
       "orderPosition": 8,
-      "elementName": "Komunia"
+      "elementName": "Komunia",
+      "selectedVerses": null
     },
     {
       "type": "Picture",
       "referenceName": "udzielanie_kumuni_1",
       "orderPosition": 9,
-      "elementName": null
+      "elementName": null,
+      "selectedVerses": null
     },
     {
       "type": "Song",
       "referenceName": "Jeden chleb",
       "orderPosition": 10,
-      "elementName": "Komunia"
+      "elementName": "Komunia",
+      "selectedVerses": null
     },
     {
       "type": "Picture",
       "referenceName": "jezus_w_kielichu",
       "orderPosition": 11,
-      "elementName": null
+      "elementName": null,
+      "selectedVerses": null
     },
     {
       "type": "Song",
       "referenceName": "Magnificat (anime mea)",
       "orderPosition": 12,
-      "elementName": "Uwielbienie"
+      "elementName": "Uwielbienie",
+      "selectedVerses": null
     },
     {
       "type": "Picture",
       "referenceName": "maryja_koronacja",
       "orderPosition": 13,
-      "elementName": null
+      "elementName": null,
+      "selectedVerses": null
     },
     {
       "type": "Song",
       "referenceName": "Z dawna Polski Tyś Królową",
       "orderPosition": 14,
-      "elementName": "Rozesłanie"
+      "elementName": "Rozesłanie",
+      "selectedVerses": null
     },
     {
       "type": "Picture",
       "referenceName": "maryja_wniebowzieta1",
       "orderPosition": 15,
-      "elementName": null
+      "elementName": null,
+      "selectedVerses": null
     }
   ]
 }
