@@ -1,7 +1,7 @@
 {
   "name": "Niedziela",
-  "date": "2026-10-04",
-  "updatedAt": "2026-10-04T15:03:58.3307695Z",
+  "date": "2026-09-06",
+  "updatedAt": "2026-09-06T15:09:19.1122735Z",
   "items": [
     {
       "type": "Picture",
@@ -12,14 +12,14 @@
     },
     {
       "type": "Song",
-      "referenceName": "Głoś imię Pana",
+      "referenceName": "Boże, w dobroci nigdy nie przebrany",
       "orderPosition": 2,
       "elementName": "Wejście",
       "selectedVerses": null
     },
     {
       "type": "Picture",
-      "referenceName": "jezus_milosierny_serce",
+      "referenceName": "Ostatnia wieczerza",
       "orderPosition": 3,
       "elementName": null,
       "selectedVerses": null
@@ -40,49 +40,49 @@
     },
     {
       "type": "Song",
-      "referenceName": "Idźcie na cały świat",
+      "referenceName": "Przykazanie nowe daję wam",
       "orderPosition": 6,
       "elementName": "Ofiarowanie",
       "selectedVerses": null
     },
     {
       "type": "Picture",
-      "referenceName": "Ostatnia wieczerza",
+      "referenceName": "jezus_w_kielichu",
       "orderPosition": 7,
       "elementName": null,
       "selectedVerses": null
     },
     {
       "type": "Song",
-      "referenceName": "Zbliżam się w pokorze",
+      "referenceName": "Ciebie całą duszą pragnę",
       "orderPosition": 8,
       "elementName": "Komunia",
       "selectedVerses": null
     },
     {
       "type": "Picture",
-      "referenceName": "jezus_w_kielichu",
+      "referenceName": "udzielanie_kumuni_1",
       "orderPosition": 9,
       "elementName": null,
       "selectedVerses": null
     },
     {
       "type": "Song",
-      "referenceName": "Jeden chleb",
+      "referenceName": "O Panie, Tyś moim Pasterzem",
       "orderPosition": 10,
       "elementName": "Komunia",
       "selectedVerses": null
     },
     {
       "type": "Picture",
-      "referenceName": "jezus_w_kielichu",
+      "referenceName": "kumunia_swieta_01",
       "orderPosition": 11,
       "elementName": null,
       "selectedVerses": null
     },
     {
       "type": "Song",
-      "referenceName": "Dzięki, o Panie",
+      "referenceName": "Dziękujemy Ci, Ojcze nasz",
       "orderPosition": 12,
       "elementName": "Uwielbienie",
       "selectedVerses": null
@@ -96,14 +96,14 @@
     },
     {
       "type": "Song",
-      "referenceName": "Zawitaj, Królowo Różańca Świętego",
+      "referenceName": "Kto się w opiekę",
       "orderPosition": 14,
       "elementName": "Rozesłanie",
-      "selectedVerses": "1,2,3"
+      "selectedVerses": null
     },
     {
       "type": "Picture",
-      "referenceName": "Maryja_Lourdes",
+      "referenceName": "Ostatnia wieczerza",
       "orderPosition": 15,
       "elementName": null,
       "selectedVerses": null
