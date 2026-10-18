@@ -1,7 +1,7 @@
 {
   "name": "Niedziela",
-  "date": "2026-09-06",
-  "updatedAt": "2026-09-06T15:09:19.1122735Z",
+  "date": "2026-10-18",
+  "updatedAt": "2026-10-18T11:33:25.2161671Z",
   "items": [
     {
       "type": "Picture",
@@ -12,14 +12,14 @@
     },
     {
       "type": "Song",
-      "referenceName": "Boże, w dobroci nigdy nie przebrany",
+      "referenceName": "Kto się w opiekę",
       "orderPosition": 2,
       "elementName": "Wejście",
       "selectedVerses": null
     },
     {
       "type": "Picture",
-      "referenceName": "Ostatnia wieczerza",
+      "referenceName": "jezus_milosierny_serce",
       "orderPosition": 3,
       "elementName": null,
       "selectedVerses": null
@@ -40,7 +40,7 @@
     },
     {
       "type": "Song",
-      "referenceName": "Przykazanie nowe daję wam",
+      "referenceName": "Wszystko Tobie oddać pragnę",
       "orderPosition": 6,
       "elementName": "Ofiarowanie",
       "selectedVerses": null
@@ -54,7 +54,7 @@
     },
     {
       "type": "Song",
-      "referenceName": "Ciebie całą duszą pragnę",
+      "referenceName": "Kłaniam się Tobie, przedwieczny Boże",
       "orderPosition": 8,
       "elementName": "Komunia",
       "selectedVerses": null
@@ -68,14 +68,14 @@
     },
     {
       "type": "Song",
-      "referenceName": "O Panie, Tyś moim Pasterzem",
+      "referenceName": "Zbliżam się w pokorze",
       "orderPosition": 10,
       "elementName": "Komunia",
       "selectedVerses": null
     },
     {
       "type": "Picture",
-      "referenceName": "kumunia_swieta_01",
+      "referenceName": "udzielanie_kumuni_1",
       "orderPosition": 11,
       "elementName": null,
       "selectedVerses": null
@@ -95,16 +95,23 @@
       "selectedVerses": null
     },
     {
-      "type": "Song",
-      "referenceName": "Kto się w opiekę",
+      "type": "Picture",
+      "referenceName": "jezus_milosierny_serce",
       "orderPosition": 14,
+      "elementName": null,
+      "selectedVerses": null
+    },
+    {
+      "type": "Song",
+      "referenceName": "O Pani, ufność nasza w modlitwy Twej obronie",
+      "orderPosition": 15,
       "elementName": "Rozesłanie",
       "selectedVerses": null
     },
     {
       "type": "Picture",
-      "referenceName": "Ostatnia wieczerza",
-      "orderPosition": 15,
+      "referenceName": "jezus_milosierny_serce",
+      "orderPosition": 16,
       "elementName": null,
       "selectedVerses": null
     }
