@@ -1,0 +1,33 @@
+{
+  "title": "Panie, dobry jak chleb",
+  "author": null,
+  "tonacja": "C-Dur",
+  "updatedAt": "2026-10-23T16:05:12.4462495Z",
+  "tags": [
+    "1 Komunia Św",
+    "Komunia",
+    "Liturgiczne"
+  ],
+  "sections": [
+    {
+      "type": "Refrain",
+      "text": "Panie, dobry jak chleb,\nbądź uwielbiony od swego Kościoła,\nbo Tyś do końca nas umiłował,\ndo końca nas umiłował."
+    },
+    {
+      "type": "Refrain",
+      "text": "Tyś na pustkowiu chleb rozmnożył, Panie,\nbyśmy do nieba w drodze nie ustali,\nTyś stał się manną wędrowców przez ziemię,\ndla tych, co dotąd przy Tobie wytrwali. Ref."
+    },
+    {
+      "type": "Verse",
+      "text": "Ziarna zbierzemy, odrzucimy chwasty,\nbo łan dojrzewa, pachnie świeżym chlebem.\nNiech ziemia nasza stanie się ołtarzem,\na chleb Komunią dla spragnionych Ciebie. Ref."
+    },
+    {
+      "type": "Verse",
+      "text": "Ty nas nazwałeś swymi przyjaciółmi,\njeśli spełnimy, co nam przykazałeś.\nCóż my bez Ciebie, Panie, uczynimy?\nTyś naszym Życiem i Oczekiwaniem. Ref."
+    },
+    {
+      "type": "Verse",
+      "text": "Tyś za nas życie swe na krzyżu oddał,\na w znaku chleba z nami pozostałeś\ni dla nas zawsze masz otwarte Serce,\nbo Ty do końca nas umiłowałeś. Ref."
+    }
+  ]
+}
