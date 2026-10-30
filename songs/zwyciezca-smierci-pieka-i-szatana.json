@@ -2,7 +2,7 @@
   "title": "Zwycięzca śmierci, piekła i szatana",
   "author": null,
   "tonacja": null,
-  "updatedAt": "2026-10-30T16:17:11.8567599Z",
+  "updatedAt": "2026-10-30T16:29:08.2338269Z",
   "tags": [
     "Liturgiczne",
     "Wielkanoc"
@@ -42,7 +42,11 @@
     },
     {
       "type": "Verse",
-      "text": "Więc potargawszy nałogi grzechowe,\nChrystusa wzorem wiedźmy życie nowe,\nz dala mijając nieszczęść naszych groby,\nmiejsca, osoby. Alleluja!\n10. Przez Twe chwalebne, Chryste zmartwychwstanie,\ndaj w łasce Twojej stateczne wytrwanie\ni niech tak w chwale, jakoś Ty, równie my\nzmartwychwstaniemy. Alleluja!"
+      "text": "Więc potargawszy nałogi grzechowe,\nChrystusa wzorem wiedźmy życie nowe,\nz dala mijając nieszczęść naszych groby,\nmiejsca, osoby. Alleluja!"
+    },
+    {
+      "type": "Verse",
+      "text": "Przez Twe chwalebne, Chryste zmartwychwstanie,\ndaj w łasce Twojej stateczne wytrwanie\ni niech tak w chwale, jakoś Ty, równie my\nzmartwychwstaniemy. Alleluja!"
     }
   ]
 }
