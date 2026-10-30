@@ -2,7 +2,7 @@
   "title": "Wszystko Tobie oddać pragnę",
   "author": null,
   "tonacja": "C-Dur",
-  "updatedAt": "2026-10-18T11:36:31.3901371Z",
+  "updatedAt": "2026-10-23T16:12:05.8897016Z",
   "tags": [
     "Liturgiczne",
     "Ofiarowanie"
@@ -14,11 +14,15 @@
     },
     {
       "type": "Refrain",
-      "text": "Refren: Serce moje weź, niech Twą śpiewa cześć,\n serce moje, duszę moją, Panie Jezu weź!"
+      "text": "Serce moje weź, \r\nniech Twą śpiewa cześć,\nserce moje, duszę moją,\r\nPanie Jezu weź!"
     },
     {
       "type": "Verse",
       "text": "2. Wszystko Tobie oddać pragnę\r\nod najmłodszych moich lat!\nPomóż, Jezu, by mnie nie zwiódł\r\npokusami swymi świat! Ref."
+    },
+    {
+      "type": "Refrain",
+      "text": "Serce moje weź, \r\nniech Twą śpiewa cześć,\nserce moje, duszę moją,\r\nPanie Jezu weź!"
     }
   ]
 }
