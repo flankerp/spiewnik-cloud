@@ -2,7 +2,7 @@
   "title": "Radośnie Panu hymn śpiewajmy",
   "author": null,
   "tonacja": "C-Dur",
-  "updatedAt": "2026-07-22T20:26:55.8587269Z",
+  "updatedAt": "2026-10-30T17:43:21.5571564Z",
   "tags": [
     "Liturgiczne",
     "Uwielbienie"
@@ -10,31 +10,31 @@
   "sections": [
     {
       "type": "Refrain",
-      "text": "Refren: Radośnie Panu hymn śpiewajmy. Alleluja! \nI dobroć Jego wysławiajmy. Alleluja!\r"
+      "text": "Refren: Radośnie Panu hymn śpiewajmy. Alleluja!\nI dobroć Jego wysławiajmy. Alleluja!"
     },
     {
       "type": "Verse",
-      "text": "1. Wychwalajcie ze mną dzieła Bożej mocy. \r\nAlleluja! \n \u000BWychwalajcie Pana nad wszystko na wieki. \r\nAlleluja!"
+      "text": "1. Wychwalajcie ze mną dzieła Bożej mocy.\nAlleluja!\nWychwalajcie Pana nad wszystko na wieki.\nAlleluja!"
     },
     {
       "type": "Refrain",
-      "text": "Refren: Radośnie Panu hymn śpiewajmy. Alleluja! \nI dobroć Jego wysławiajmy. Alleluja!\r"
+      "text": "Refren: Radośnie Panu hymn śpiewajmy. Alleluja!\nI dobroć Jego wysławiajmy. Alleluja!"
     },
     {
       "type": "Verse",
-      "text": "2. Wychwalajcie Pana, aniołowie Pańscy. \r\nAlleluja! \n \u000BWychwalajcie Pana, zastępy niebieskie. \r\nAlleluja! "
+      "text": "2. Wychwalajcie Pana, aniołowie Pańscy.\nAlleluja!\nWychwalajcie Pana, zastępy niebieskie.\nAlleluja!"
     },
     {
       "type": "Refrain",
-      "text": "Refren: Radośnie Panu hymn śpiewajmy. Alleluja! \nI dobroć Jego wysławiajmy. Alleluja!\r"
+      "text": "Refren: Radośnie Panu hymn śpiewajmy. Alleluja!\nI dobroć Jego wysławiajmy. Alleluja!"
     },
     {
       "type": "Verse",
-      "text": "3. Wychwalajcie Pana, słońce i księżycu. \r\nAlleluja! \n \u000BWychwalajcie Pana, wszystkie gwiazdy nieba. \r\nAlleluja!"
+      "text": "3. Wychwalajcie Pana, słońce i księżycu.\nAlleluja!\nWychwalajcie Pana, wszystkie gwiazdy nieba.\nAlleluja!"
     },
     {
       "type": "Refrain",
-      "text": "Refren: Radośnie Panu hymn śpiewajmy. Alleluja! \nI dobroć Jego wysławiajmy. Alleluja!\r"
+      "text": "Refren: Radośnie Panu hymn śpiewajmy. Alleluja!\nI dobroć Jego wysławiajmy. Alleluja!"
     }
   ]
 }
