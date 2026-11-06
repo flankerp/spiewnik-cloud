@@ -1,7 +1,7 @@
 {
   "name": "Piątek",
-  "date": "2026-08-07",
-  "updatedAt": "2026-08-07T14:57:02.6988733Z",
+  "date": "2026-10-23",
+  "updatedAt": "2026-10-23T18:58:01.3428283Z",
   "items": [
     {
       "type": "Picture",
@@ -40,7 +40,7 @@
     },
     {
       "type": "Song",
-      "referenceName": "Czego chcesz od nas Panie, za Twe hojne dary",
+      "referenceName": "Wszystko Tobie oddać pragnę",
       "orderPosition": 6,
       "elementName": "Ofiarowanie",
       "selectedVerses": null
@@ -54,14 +54,14 @@
     },
     {
       "type": "Song",
-      "referenceName": "Chrystus Pan karmi nas",
+      "referenceName": "Panie, dobry jak chleb",
       "orderPosition": 8,
       "elementName": "Komunia",
       "selectedVerses": null
     },
     {
       "type": "Picture",
-      "referenceName": "udzielanie_kumuni_1",
+      "referenceName": "kumunia_swieta_01",
       "orderPosition": 9,
       "elementName": null,
       "selectedVerses": null
@@ -82,14 +82,14 @@
     },
     {
       "type": "Song",
-      "referenceName": "Pobłogosław Jezu drogi",
+      "referenceName": "Błogosławiona jesteś, Maryjo",
       "orderPosition": 12,
       "elementName": "Rozesłanie",
       "selectedVerses": null
     },
     {
       "type": "Picture",
-      "referenceName": "jezus_milosierny_serce",
+      "referenceName": "maryja_wniebowzieta1",
       "orderPosition": 13,
       "elementName": null,
       "selectedVerses": null
