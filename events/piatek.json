@@ -1,7 +1,7 @@
 {
   "name": "Piątek",
-  "date": "2026-10-02",
-  "updatedAt": "2026-10-02T18:16:12.3814784Z",
+  "date": "2026-11-13",
+  "updatedAt": "2026-11-13T18:02:50.6361177Z",
   "items": [
     {
       "type": "Picture",
@@ -12,7 +12,7 @@
     },
     {
       "type": "Song",
-      "referenceName": "Kłaniam się Tobie, przedwieczny Boże",
+      "referenceName": "Radośnie Panu hymn śpiewajmy",
       "orderPosition": 2,
       "elementName": "Wejście",
       "selectedVerses": null
@@ -26,23 +26,23 @@
     },
     {
       "type": "Song",
-      "referenceName": "Kto się w opiekę",
+      "referenceName": "PSALM na dziś",
       "orderPosition": 4,
-      "elementName": "Ofiarowanie",
+      "elementName": "Psalm",
       "selectedVerses": null
     },
     {
       "type": "Picture",
-      "referenceName": "kumunia_swieta_02",
+      "referenceName": "jezus_milosierny_serce",
       "orderPosition": 5,
       "elementName": null,
       "selectedVerses": null
     },
     {
       "type": "Song",
-      "referenceName": "Chrystus Pan karmi nas",
+      "referenceName": "Boże, obdarz Kościół Twój",
       "orderPosition": 6,
-      "elementName": "Komunia",
+      "elementName": "Ofiarowanie",
       "selectedVerses": null
     },
     {
@@ -54,29 +54,43 @@
     },
     {
       "type": "Song",
-      "referenceName": "Dziękujemy Ci, Ojcze nasz",
+      "referenceName": "Chrystus Pan karmi nas",
       "orderPosition": 8,
-      "elementName": "Uwielbienie",
+      "elementName": "Komunia",
       "selectedVerses": null
     },
     {
       "type": "Picture",
-      "referenceName": "jezus_milosierny_serce",
+      "referenceName": "udzielanie_kumuni_1",
       "orderPosition": 9,
       "elementName": null,
       "selectedVerses": null
     },
     {
       "type": "Song",
-      "referenceName": "Pobłogosław Jezu drogi",
+      "referenceName": "Dzięki, o Panie",
       "orderPosition": 10,
-      "elementName": "Rozesłanie",
+      "elementName": "Uwielbienie",
       "selectedVerses": null
     },
     {
       "type": "Picture",
       "referenceName": "jezus_milosierny_serce",
       "orderPosition": 11,
+      "elementName": null,
+      "selectedVerses": null
+    },
+    {
+      "type": "Song",
+      "referenceName": "Pobłogosław Jezu drogi",
+      "orderPosition": 12,
+      "elementName": "Rozesłanie",
+      "selectedVerses": null
+    },
+    {
+      "type": "Picture",
+      "referenceName": "jezus_milosierny_serce",
+      "orderPosition": 13,
       "elementName": null,
       "selectedVerses": null
     }
