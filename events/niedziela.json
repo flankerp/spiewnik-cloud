@@ -1,7 +1,7 @@
 {
   "name": "Niedziela",
-  "date": "2026-11-08",
-  "updatedAt": "2026-11-08T13:13:53.1823412Z",
+  "date": "2026-10-18",
+  "updatedAt": "2026-10-18T15:01:41.3947917Z",
   "items": [
     {
       "type": "Picture",
@@ -12,10 +12,10 @@
     },
     {
       "type": "Song",
-      "referenceName": "Ciebie całą duszą pragnę",
+      "referenceName": "Kto się w opiekę",
       "orderPosition": 2,
       "elementName": "Wejście",
-      "selectedVerses": "1,2,3"
+      "selectedVerses": null
     },
     {
       "type": "Picture",
@@ -40,7 +40,7 @@
     },
     {
       "type": "Song",
-      "referenceName": "Być bliżej Ciebie chcę",
+      "referenceName": "Wszystko Tobie oddać pragnę",
       "orderPosition": 6,
       "elementName": "Ofiarowanie",
       "selectedVerses": null
@@ -54,7 +54,7 @@
     },
     {
       "type": "Song",
-      "referenceName": "Pan Jezus już się zbliża",
+      "referenceName": "Kłaniam się Tobie, przedwieczny Boże",
       "orderPosition": 8,
       "elementName": "Komunia",
       "selectedVerses": null
@@ -68,7 +68,7 @@
     },
     {
       "type": "Song",
-      "referenceName": "Chrystus Pan karmi nas",
+      "referenceName": "Zbliżam się w pokorze",
       "orderPosition": 10,
       "elementName": "Komunia",
       "selectedVerses": null
@@ -82,7 +82,7 @@
     },
     {
       "type": "Song",
-      "referenceName": "Upadnij na kolana",
+      "referenceName": "Dziękujemy Ci, Ojcze nasz",
       "orderPosition": 12,
       "elementName": "Uwielbienie",
       "selectedVerses": null
@@ -95,16 +95,23 @@
       "selectedVerses": null
     },
     {
-      "type": "Song",
-      "referenceName": "Boże, coś Polskę",
+      "type": "Picture",
+      "referenceName": "jezus_milosierny_serce",
       "orderPosition": 14,
+      "elementName": null,
+      "selectedVerses": null
+    },
+    {
+      "type": "Song",
+      "referenceName": "O Pani, ufność nasza w modlitwy Twej obronie",
+      "orderPosition": 15,
       "elementName": "Rozesłanie",
       "selectedVerses": null
     },
     {
       "type": "Picture",
-      "referenceName": "polska",
-      "orderPosition": 15,
+      "referenceName": "jezus_milosierny_serce",
+      "orderPosition": 16,
       "elementName": null,
       "selectedVerses": null
     }
